@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 8964be0ae39d5e242a0052d970c7f27d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8849202637490492687
+    second: deltafate-alexun-bqib3t4i 37_0
+  - first:
+      213: 5697147336765164378
+    second: deltafate-alexun-bqib3t4i 37_1
+  - first:
+      213: 3807940093347266798
+    second: deltafate-alexun-bqib3t4i 37_2
+  - first:
+      213: -4647009385427285466
+    second: deltafate-alexun-bqib3t4i 37_3
+  - first:
+      213: 7853338977105551025
+    second: deltafate-alexun-bqib3t4i 37_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.4954462, y: 0.063979916}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deltafate-alexun-bqib3t4i 37_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 63
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5036754, y: -0.000025782092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f051219e9eeaeca70800000000000000
+      internalID: 8849202637490492687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate-alexun-bqib3t4i 37_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 9
+        width: 63
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5036756, y: -0.000025782092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b43f86155501f40800000000000000
+      internalID: 5697147336765164378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate-alexun-bqib3t4i 37_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 9
+        width: 63
+        height: 116
+      alignment: 9
+      pivot: {x: 0.50183785, y: 0.0009722792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee08eede65588d430800000000000000
+      internalID: 3807940093347266798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate-alexun-bqib3t4i 37_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 10
+        width: 63
+        height: 116
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.0009722792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a43b9b591828fb0800000000000000
+      internalID: -4647009385427285466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate-alexun-bqib3t4i 37_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 8
+        width: 63
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5047937, y: -0.00073250406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be1b1fd03aacfc60800000000000000
+      internalID: 7853338977105551025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      deltafate-alexun-bqib3t4i 37_4: 7853338977105551025
+      deltafate-alexun-bqib3t4i 37_3: -4647009385427285466
+      deltafate-alexun-bqib3t4i 37_2: 3807940093347266798
+      deltafate-alexun-bqib3t4i 37_1: 5697147336765164378
+      deltafate-alexun-bqib3t4i 37_0: 8849202637490492687
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

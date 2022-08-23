@@ -1,0 +1,2700 @@
+fileFormatVersion: 2
+guid: 3eeb47a7fb1a8ae4582049d7910377fd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 228
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90708eecf7da1b64499d808311d5ab72
+      internalID: 1685242767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 228
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d534a2150aa873499926c88add5e748
+      internalID: 146681960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 229
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16c4ba2bd4450c409355912c35065b1
+      internalID: 1200963625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 229
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9498f266dc6794dba6446598e9b74f
+      internalID: -391176610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 230
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453d2bd9d20de68468aea320a9e62d67
+      internalID: 79533869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 227
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e1a3d0864708e41ac66f38bba4c877
+      internalID: 1653501499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 229
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca30d956dbfb8c24db0703a0495b45c3
+      internalID: -655404828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 227
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a312c70468e966247a2fa09a16b53c76
+      internalID: -1757120634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 229
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63da626aa52676b4896121256fd14601
+      internalID: -1409306006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 225
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc583df6faba8b41b90195c06cb11fb
+      internalID: 431168002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_13
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 225
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c4415efebe2a34688be6f15c8009de
+      internalID: 973884158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 227
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c3bf8ec703edc4aa032da86e294555
+      internalID: -574930221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_16
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 224
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc6c4be6a86d0840b6ff3ff37d5b56c
+      internalID: 1340510189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 229
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6015c262e4ab2c4d9fd1bd5d3670b15
+      internalID: -141403367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 217
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297e1d01c8e414648bcdcfad9f85eb25
+      internalID: -249960985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_19
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 217
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14162c912b1f47459bf6debdaf754af
+      internalID: -1366539782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_20
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 217
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9372c74f9565f04db13ad065dfda091
+      internalID: 710163960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_21
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 227
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da62f713bda628f418c5e7bccaa7a2d2
+      internalID: 2131523779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_22
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 227
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaf6a25d53a5e440ba4d600b12a210c
+      internalID: -1690178609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_23
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 227
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cd7e0a3439bcb49b78ca135c0fccda
+      internalID: -2073269484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_24
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 227
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696cefa5899c78a4e9f6e5fea220f563
+      internalID: -1426949190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_25
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 227
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f744012668b3054193457f2d61241b0
+      internalID: -850170661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_26
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 227
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c1570d256b3614eb20eec2bf312871
+      internalID: -2015001329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_27
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 227
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f8720b47a7962458f1062d9204482e
+      internalID: -1091982199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_28
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 227
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee1bb97a7b4ff04ea5e7f8378a94bc5
+      internalID: -1153186264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_29
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 240
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1394c5f23349f224396205375c132c29
+      internalID: 1754412516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_30
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 240
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096d2deedc281874fb5a80c47bc53c0b
+      internalID: -1293580615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_31
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 240
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3d46d006e522949be41cb667988a28
+      internalID: 717926085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_32
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 240
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a10e2333394ea49af61be9ec4a5d56
+      internalID: -253526588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_33
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 88
+        width: 30
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8671183290e38ea4a98c4561d976a438
+      internalID: -1911205002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_34
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 159
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3376ab298305cf74593afd5c2c0cdccd
+      internalID: -252732612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_35
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 159
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065a0f6dac16a1e419d0810d61d7fae3
+      internalID: 1390067841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_36
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 159
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0a02e086cf6794989c46f48c2e3745
+      internalID: 1398895879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee04c8281d777e643af544fe276ce3c5
+      internalID: 1935837610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 159
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9424cf44b88cbf44397adec026d55b4e
+      internalID: 1362815315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_39
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 159
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0dd00ea1ba90249b2ca96a527dfd37
+      internalID: -164196786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_40
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 159
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82939594fce02814eb676c42abf9d894
+      internalID: 124966875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_41
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 159
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14230485b8fb7804d8a7c4e6983dc46f
+      internalID: -171800530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_42
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 159
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab278ce498a99a41a2710658d3e2042
+      internalID: 1391310385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_43
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 159
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140b534b22d7b1243a54f00515b72593
+      internalID: -641130159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_44
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 159
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621d43db72721344f964ee841463e36c
+      internalID: 1015863395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_45
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 159
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9fe2d429da67c42885dd17faff1d92
+      internalID: 467685017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_46
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 159
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327a328acaa494f47a3f9e18d7ee9c7b
+      internalID: -1236287403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_47
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 159
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2085c0ced4465d04995bb09716932ddd
+      internalID: -1407134293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_48
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 159
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5fe0f4b2ec75f4d9ce104409b59724
+      internalID: 709732350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_49
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 159
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bf1dd1492945545834ebba7737e12b
+      internalID: 377567239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_50
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 159
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b76e2e80c0bce44e8a985ef0ea62a25
+      internalID: 1891166726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_51
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 159
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd41a1c4f0ae6b458c2e84032ce9695
+      internalID: 363742915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_52
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 179
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22065fe5a1e4f3c42b1ae59a76b68d5f
+      internalID: 1627322893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_53
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 187
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a104417c84659429585eaabac86335
+      internalID: 230681241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_54
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 159
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f026c07843ffbed4397df7afd2df3529
+      internalID: 1106646805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_55
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 159
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28db1d6d8d416a40b8cd3c02a963d7a
+      internalID: 993142102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_56
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 159
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bac1cddcacf91b4caf96e0e80a20393
+      internalID: -1791302795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_57
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 101
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc703026badf0cc40827024ea9401f4f
+      internalID: 532559858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 101
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a91ed6277fa2b34c92ed3faea3f1117
+      internalID: -477523919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_59
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 101
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dea5c766e93a1c40ac52c104a72d248
+      internalID: -1642142878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 101
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f7350c81dd4774196d3ff0b221b918
+      internalID: 1364926727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 101
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd2b31e6b6078c4e8534ed64557e39d
+      internalID: -391532051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 121
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976c34c81345dbf4a84417de43cbad6f
+      internalID: -1946887294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_63
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 129
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5522d8711bc32947960fac080b9723d
+      internalID: 1716573246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_64
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 101
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471900acf9d52cd44893680d598cc904
+      internalID: -419386902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_65
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 101
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd99935de4a42b14f95413c5307bc0b1
+      internalID: -97562727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_66
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 101
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418fdacff3daa4a4ca8680807785c3dd
+      internalID: 1819381824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_67
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 101
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691915808d998414491abe9e0b96303b
+      internalID: -1014078238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_68
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 101
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01956ed86685b0b4aabba91a6b676598
+      internalID: 1843950386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_69
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 101
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd3fd7d2866e264fa555b84e1274b92
+      internalID: -597098706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_70
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 101
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dfa4adfbfccce468959e9a9c26a935
+      internalID: -1677611761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_71
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 101
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474a320e369753f44b21fafd9efb3074
+      internalID: -1134728118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_72
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 101
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c995008df7dfa4d9ad48f7bf05b2a9
+      internalID: -60759520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_73
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 101
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c9d3962a2a9104caefd000c07c50d7
+      internalID: 239450237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_74
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 101
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6303ff629266d04aa483edbac42322a
+      internalID: 358256029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_75
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 101
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9348cd9570aa4b347889f1475bba01c8
+      internalID: 1707643244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_76
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 101
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8487c40a6e41bf948a2a7f8dd1c1be92
+      internalID: 1417373403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_77
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 101
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2932a9e2093e64b8c3ff8ff0abfae2
+      internalID: 734444288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_78
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 101
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f43d657b5f5e344ab173db3705ae2f1
+      internalID: -618707393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_79
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 101
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c088841f561734b985c83982f51342
+      internalID: 1553733445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_80
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 30
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaaffa6237e3ba47a4c9c6e136057ab
+      internalID: -790445099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_81
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 30
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59380afffbca9f04b8b137e526ef282b
+      internalID: 1928839771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_82
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 41
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaf2ba951c90c74a975834c9008c0b4
+      internalID: -1282967986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_83
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 41
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6ea787b7a5e2a4889bb33b748e9c20
+      internalID: -1542541482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_84
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 51
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc5aefd88b1eec48b78bb56424f4f61
+      internalID: -363226915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_85
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 85
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e2a6070e5fd6242b8d3f93c3e8ec8d
+      internalID: 703514594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1543d68fedfa148bef15fa65dcdfdf
+      internalID: -636038443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_87
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 31
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27653c96ac15c23438f32d57f227e6da
+      internalID: 2036086024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_88
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 30
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e805637d4c87d6f469c2838334c9b919
+      internalID: -1137157009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_89
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09e702f76102cd46a3c6303874530f3
+      internalID: -1017182841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_90
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 15
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6abbaa068253f4eb2440b307583a68
+      internalID: -824740770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_91
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072850abc0ab0f54d96b15804387f8f8
+      internalID: 1769022569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_92
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 15
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6082bd2947ab8449ec54c2d39bc03d
+      internalID: -691571641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_93
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d57499dd93ddd443aa34c10992b24b6
+      internalID: -1880289405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_94
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c57c7f1b0f11a4d9fd4f3835b02ae1
+      internalID: -1744767231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_95
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5de414b248d804396ea8e995682848
+      internalID: -826236750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_96
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377af236a49015745b948685143cd92a
+      internalID: -1351030371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_97
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aee290d88ebcb46be6ee68e4a80e96
+      internalID: -1414642032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_98
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37f1ce37436edf4697e03d1ae9bda1c
+      internalID: -375655467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_99
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e30408f024b7049a642a8fbe8af3b5
+      internalID: -668864341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_100
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 4
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793f57540e14b4d4a8d54a3a1938ac69
+      internalID: 272377232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_101
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0aa59b1f3e7304f96e5d351dd87288
+      internalID: -1609044854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_102
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 4
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6972d561e54194383455dca5b52411
+      internalID: 1329728561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_103
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d372ff65824a841826dbe897697ac7
+      internalID: 1654257853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_104
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 4
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66aa8a70348da264787106cf1345a10b
+      internalID: 130518535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_105
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4661077c7ecab46a7767c3c2b1d077
+      internalID: -1133856641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_106
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 4
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3517de4de872e43b80c8b96ad9ccf3
+      internalID: 2100814181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_107
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb3d00c8d7736049b571ab6553fed30
+      internalID: 244104828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_108
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 4
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded4a8e75eba41e448b5a97562f14393
+      internalID: 966753982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_109
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada6fe0a15adb1844aeabe663676fc02
+      internalID: 1145862532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_110
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 4
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fe80a9ef07dea42a3992804d7c6229
+      internalID: -91349982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_111
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c198a46b50af634f86cd9789ea9b482
+      internalID: -1393085837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_112
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 4
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800394433788f3a4589e955ca7e57879
+      internalID: -1121599000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_113
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebe7d9ee06224c4d9be017f164ec1de
+      internalID: 1330643165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_114
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a479fe292a32d40a7acc7688b0542d
+      internalID: 948051932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_115
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8933a6b6806974e45b22a1eb3322bf62
+      internalID: -386364622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_116
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9077d39b7cbc8364f95fb7792ae8453e
+      internalID: -1972743373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_117
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 11
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccaea61b3a041e4180a183cbd08609b
+      internalID: 814902035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_118
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633302c63cf9e7e4aa443fbc79ce644d
+      internalID: 392617152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_119
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20a909b35e8de64fbb801c9a92fb799
+      internalID: -2105911859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Spamton_120
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 11
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1dba526978bb94b872b7bee88b5266
+      internalID: -1963707239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Deltarune - Spamton_1: -711315532
+      PC Computer - Deltarune - Spamton_88: -1137157009
+      PC Computer - Deltarune - Spamton_46: -1236287403
+      PC Computer - Deltarune - Spamton_5: 1200963625
+      PC Computer - Deltarune - Spamton_48: 709732350
+      PC Computer - Deltarune - Spamton_69: -597098706
+      PC Computer - Deltarune - Spamton_65: -97562727
+      PC Computer - Deltarune - Spamton_108: 966753982
+      PC Computer - Deltarune - Spamton_40: 124966875
+      PC Computer - Deltarune - Spamton_6: -391176610
+      PC Computer - Deltarune - Spamton_15: -574930221
+      PC Computer - Deltarune - Spamton_73: 239450237
+      PC Computer - Deltarune - Spamton_114: 948051932
+      PC Computer - Deltarune - Spamton_14: -1498590482
+      PC Computer - Deltarune - Spamton_53: 230681241
+      PC Computer - Deltarune - Spamton_17: -141403367
+      PC Computer - Deltarune - Spamton_19: -1366539782
+      PC Computer - Deltarune - Spamton_81: 1928839771
+      PC Computer - Deltarune - Spamton_67: -1014078238
+      PC Computer - Deltarune - Spamton_80: -790445099
+      PC Computer - Deltarune - Spamton_35: 1390067841
+      PC Computer - Deltarune - Spamton_116: -1972743373
+      PC Computer - Deltarune - Spamton_2: 1685242767
+      PC Computer - Deltarune - Spamton_105: -1133856641
+      PC Computer - Deltarune - Spamton_31: 717926085
+      PC Computer - Deltarune - Spamton_16: 1340510189
+      PC Computer - Deltarune - Spamton_112: -1121599000
+      PC Computer - Deltarune - Spamton_104: 130518535
+      PC Computer - Deltarune - Spamton_68: 1843950386
+      PC Computer - Deltarune - Spamton_60: 1364926727
+      PC Computer - Deltarune - Spamton_21: 2131523779
+      PC Computer - Deltarune - Spamton_56: -1791302795
+      PC Computer - Deltarune - Spamton_115: -386364622
+      PC Computer - Deltarune - Spamton_120: -1963707239
+      PC Computer - Deltarune - Spamton_89: -1017182841
+      PC Computer - Deltarune - Spamton_106: 2100814181
+      PC Computer - Deltarune - Spamton_43: -641130159
+      PC Computer - Deltarune - Spamton_38: 1362815315
+      PC Computer - Deltarune - Spamton_41: -171800530
+      PC Computer - Deltarune - Spamton_83: -1542541482
+      PC Computer - Deltarune - Spamton_33: -1911205002
+      PC Computer - Deltarune - Spamton_11: -1409306006
+      PC Computer - Deltarune - Spamton_94: -1744767231
+      PC Computer - Deltarune - Spamton_50: 1891166726
+      PC Computer - Deltarune - Spamton_34: -252732612
+      PC Computer - Deltarune - Spamton_58: -477523919
+      PC Computer - Deltarune - Spamton_86: -636038443
+      PC Computer - Deltarune - Spamton_39: -164196786
+      PC Computer - Deltarune - Spamton_92: -691571641
+      PC Computer - Deltarune - Spamton_93: -1880289405
+      PC Computer - Deltarune - Spamton_37: 1935837610
+      PC Computer - Deltarune - Spamton_57: 532559858
+      PC Computer - Deltarune - Spamton_103: 1654257853
+      PC Computer - Deltarune - Spamton_95: -826236750
+      PC Computer - Deltarune - Spamton_101: -1609044854
+      PC Computer - Deltarune - Spamton_4: 146681960
+      PC Computer - Deltarune - Spamton_32: -253526588
+      PC Computer - Deltarune - Spamton_113: 1330643165
+      PC Computer - Deltarune - Spamton_61: -391532051
+      PC Computer - Deltarune - Spamton_52: 1627322893
+      PC Computer - Deltarune - Spamton_25: -850170661
+      PC Computer - Deltarune - Spamton_85: 703514594
+      PC Computer - Deltarune - Spamton_55: 993142102
+      PC Computer - Deltarune - Spamton_82: -1282967986
+      PC Computer - Deltarune - Spamton_72: -60759520
+      PC Computer - Deltarune - Spamton_97: -1414642032
+      PC Computer - Deltarune - Spamton_51: 363742915
+      PC Computer - Deltarune - Spamton_76: 1417373403
+      PC Computer - Deltarune - Spamton_28: -1153186264
+      PC Computer - Deltarune - Spamton_62: -1946887294
+      PC Computer - Deltarune - Spamton_54: 1106646805
+      PC Computer - Deltarune - Spamton_96: -1351030371
+      PC Computer - Deltarune - Spamton_49: 377567239
+      PC Computer - Deltarune - Spamton_7: 79533869
+      PC Computer - Deltarune - Spamton_20: 710163960
+      PC Computer - Deltarune - Spamton_24: -1426949190
+      PC Computer - Deltarune - Spamton_98: -375655467
+      PC Computer - Deltarune - Spamton_13: 973884158
+      PC Computer - Deltarune - Spamton_29: 1754412516
+      PC Computer - Deltarune - Spamton_30: -1293580615
+      PC Computer - Deltarune - Spamton_117: 814902035
+      PC Computer - Deltarune - Spamton_9: -655404828
+      PC Computer - Deltarune - Spamton_99: -668864341
+      PC Computer - Deltarune - Spamton_10: -1757120634
+      PC Computer - Deltarune - Spamton_3: -182984215
+      PC Computer - Deltarune - Spamton_79: 1553733445
+      PC Computer - Deltarune - Spamton_107: 244104828
+      PC Computer - Deltarune - Spamton_45: 467685017
+      PC Computer - Deltarune - Spamton_77: 734444288
+      PC Computer - Deltarune - Spamton_90: -824740770
+      PC Computer - Deltarune - Spamton_26: -2015001329
+      PC Computer - Deltarune - Spamton_87: 2036086024
+      PC Computer - Deltarune - Spamton_66: 1819381824
+      PC Computer - Deltarune - Spamton_18: -249960985
+      PC Computer - Deltarune - Spamton_102: 1329728561
+      PC Computer - Deltarune - Spamton_111: -1393085837
+      PC Computer - Deltarune - Spamton_42: 1391310385
+      PC Computer - Deltarune - Spamton_8: 1653501499
+      PC Computer - Deltarune - Spamton_22: -1690178609
+      PC Computer - Deltarune - Spamton_44: 1015863395
+      PC Computer - Deltarune - Spamton_36: 1398895879
+      PC Computer - Deltarune - Spamton_110: -91349982
+      PC Computer - Deltarune - Spamton_47: -1407134293
+      PC Computer - Deltarune - Spamton_78: -618707393
+      PC Computer - Deltarune - Spamton_74: 358256029
+      PC Computer - Deltarune - Spamton_118: 392617152
+      PC Computer - Deltarune - Spamton_100: 272377232
+      PC Computer - Deltarune - Spamton_0: -1709797556
+      PC Computer - Deltarune - Spamton_109: 1145862532
+      PC Computer - Deltarune - Spamton_84: -363226915
+      PC Computer - Deltarune - Spamton_23: -2073269484
+      PC Computer - Deltarune - Spamton_27: -1091982199
+      PC Computer - Deltarune - Spamton_70: -1677611761
+      PC Computer - Deltarune - Spamton_119: -2105911859
+      PC Computer - Deltarune - Spamton_71: -1134728118
+      PC Computer - Deltarune - Spamton_64: -419386902
+      PC Computer - Deltarune - Spamton_12: 431168002
+      PC Computer - Deltarune - Spamton_63: 1716573246
+      PC Computer - Deltarune - Spamton_75: 1707643244
+      PC Computer - Deltarune - Spamton_91: 1769022569
+      PC Computer - Deltarune - Spamton_59: -1642142878
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

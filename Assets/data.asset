@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7db4f92b5aec5d48ac69304a7e29a2c, type: 3}
+  m_Name: data
+  m_EditorClassIdentifier: 
+  idspawnzombie:
+  - {fileID: 3439945988470870350, guid: 02445db2b57076c48950c16b2e388619, type: 3}
+  - {fileID: 6796562479852700718, guid: 38a4b6f544bdfdb45a1891159050187d, type: 3}
+  - {fileID: 3446010783620790617, guid: 227864fcc75227e43902b35368e17796, type: 3}
+  - {fileID: 6796562479852700718, guid: 84f79b6476a1fec45ae283e7678a4676, type: 3}
+  - {fileID: 6796562479852700718, guid: 1765044357ba25346bbf54223e549a61, type: 3}
+  - {fileID: 6796562479852700718, guid: 8322caf51c4b61a4d9a9c955467509c8, type: 3}
+  - {fileID: 6796562479852700718, guid: 7f9f5f8735505ff4689fd2777836c170, type: 3}
+  - {fileID: 5292326229914257779, guid: 26c50ec176ddf1a4686ec4101c53c90f, type: 3}
+  - {fileID: 8623732369991619393, guid: 33f254cddaeeaed4592f48e039c71497, type: 3}
+  - {fileID: 6796562479852700718, guid: b2fa856bfda8eec479f00f2e58b8ce2e, type: 3}
+  - {fileID: 3667285431682021321, guid: 21be165d56d5de24b9fa076b4d215797, type: 3}
+  - {fileID: 6796562479852700718, guid: 920511647c093ce4e9eb6e00d3613abf, type: 3}
+  - {fileID: 673497433075942269, guid: a06c4327e06269d46ae240afcfb3768a, type: 3}
+  - {fileID: 3361490509632518111, guid: 766c0f852b6141647a82bbd09f4b6274, type: 3}
+  - {fileID: 3667285431682021321, guid: d397db3e5a0e7424ab676ad323cb067e, type: 3}
+  - {fileID: 40846125367611363, guid: 8917e183838e4734ab31f56f80c7aa82, type: 3}
+  - {fileID: 8089422616426751278, guid: eeabab05d0d0310449ac63b1bdcc61f1, type: 3}
+  - {fileID: 3361490509632518111, guid: 51f9c78aa19a40846bbe0a5a68a431b7, type: 3}
+  - {fileID: 4245685203767964022, guid: 7bfc90163c190e44a8ad6d55e4af06ae, type: 3}
+  - {fileID: 6369261134112574334, guid: 296bc22b69bec9c4787a6f005d84c8b3, type: 3}
+  - {fileID: 8028707829439733702, guid: 0894a0c6c3e421044a92bc8f01248d30, type: 3}
+  - {fileID: 4245685203767964022, guid: ee0547a4512d92640afcd95299133f98, type: 3}
+  namespawnzombie:
+  - 110
+  - 001
+  - 111
+  - 000
+  - 010
+  - 011
+  - 010
+  - 101
+  - 1111
+  - 0111
+  - 1011
+  - 0011
+  - 1001
+  - 0101
+  - 0010
+  - 1010
+  - 0110
+  - 0000
+  - 0001
+  - 1000
+  - 1110
+  - 10010

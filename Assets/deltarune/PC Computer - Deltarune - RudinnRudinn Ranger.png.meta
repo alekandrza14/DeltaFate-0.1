@@ -1,0 +1,1288 @@
+fileFormatVersion: 2
+guid: 1ba01363293c7dd489e7318c88e9339f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 666
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733d1a121f2888a47a667cb8fa51c79e
+      internalID: -1282461698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 666
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203daf02723cefd4a900323d6ff769b8
+      internalID: -978889647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 659
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff4de7dbe0e34144881ee8067366e31
+      internalID: 1478268737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 663
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.49999955, y: -0.0043579102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fda8d1f1c86624484365fac41c24ed
+      internalID: -739904379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 650
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ae257e2e0484e429b33f6a34b2b8e0
+      internalID: 365500063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 640
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fbf11ecc7d24c42847cabd47b28674
+      internalID: -1665377580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 602
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0cd0b43681cad4e9a0ea18debc0ba9
+      internalID: 196689069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 602
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0386788a8e854cc44bba6114b6ff81f5
+      internalID: -803528713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 602
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91aa73dd74bd2e3439f684d569a3176d
+      internalID: -1968715165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 602
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beac013fa8550eb468761bc1667cf66d
+      internalID: -36158307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_10
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 586
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cd36a9edc0a714ca67b48cb3a485cc
+      internalID: 1923077563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 586
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddebe7c26cb135e408c17dda473044c6
+      internalID: 1448852003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 586
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f119ebc153401442a238478b9608b97
+      internalID: -2122258110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_13
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 586
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f0fcb6de2b18c44b5c10a1a690bcdd
+      internalID: 245800578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 538
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aa3d4a1b4fa8c40a62166738c97d58
+      internalID: -472360624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 538
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf87be367c8d014080861674e7a9c6c
+      internalID: 1849660638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 538
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d459761ffdd634a9366ad35e6f6b17
+      internalID: -798681368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 538
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff55644460c70e549aad13ad633ebffa
+      internalID: -1387466034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 512
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e7ca13566ffe24a8848fc1fc161969
+      internalID: -1299816339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 512
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1429f030a23fbad40a89e965dec912fb
+      internalID: 2123249586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_20
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 512
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a552895684bb45469cfd93699356dd6
+      internalID: -928791495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 474
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2acbe4c912d6e40a14091340ac0cbb
+      internalID: 167756341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 474
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f0175f61278cc42babf97bff64fe3c
+      internalID: -116691343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 474
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbde3fb2a6e36244b7ce2b30a050b7f
+      internalID: -247836971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_24
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 458
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b3abfb3aa197142a78c3918c7806ba
+      internalID: -842572755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 458
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6db1160bc262f34ba2a4918ac6c34b0
+      internalID: -162987017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_26
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 458
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4b0f778b0b1504e9d25026ac3800e7
+      internalID: -629942874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_27
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 403
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcb47bd486e20848b9e5079ca515f64
+      internalID: 1372111842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_28
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 402
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eef6a0bea7cc7141b69850b89c0b052
+      internalID: 2111617035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 403
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e97f830ffdde8448aa5d71f17836e54
+      internalID: 1881414643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_30
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 402
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605c078843cf52b4eab49533d270f43e
+      internalID: 1777346241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 394
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a249c10d999094f479bb7aaaae6f73cf
+      internalID: -840279646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_32
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 394
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427763769f68c6e4f8da77b1f68e10da
+      internalID: -8742687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 394
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661434964d87f224fbad5f5089b336c1
+      internalID: -316502095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_34
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 394
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059cdf69061ed074ab11697f525eafae
+      internalID: 433303207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 330
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927209f175d0e74458dbe9e684d60226
+      internalID: 455817243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_36
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 330
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780283e47b5e9f64d815a833e7cb3f37
+      internalID: 649098051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_37
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 329
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14e86ab31f2de94e8cd46cb72ee66a8
+      internalID: -725612546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 329
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2270e60ab9c03344a21a0209152a799
+      internalID: -7250508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_39
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 321
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6cbe5052ae33b45abcbfb9a4713c37
+      internalID: -2124850887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_40
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 336
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852db4077b3b0b7428879d935c25bbb5
+      internalID: -107948856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_41
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 223
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336774d2b1376ba439ccbda6d969b850
+      internalID: -1823019554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_42
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 223
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7480bee87d0cce541a798de504e071f4
+      internalID: -406159591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_43
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 136
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f756e30d0cbfebe468d0eb46f14a0411
+      internalID: 1534721218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 154
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ec97df1a3c7b346b5aa7b4db280c05
+      internalID: -312077354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_45
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 132
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fba2d33cc82f3f499e5fd91057c9c3a
+      internalID: 1681308393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_46
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 128
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27123784b6d28348b205b15e207aa3a
+      internalID: -120918796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_47
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 132
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7558d169e14c0fd4ba42c57d3db7cfe0
+      internalID: 1993253441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_48
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 132
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4022ff3b52e999b4bb02ceb07753343a
+      internalID: 386470361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_49
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 132
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a329d3b9516ec444da066e4c2ba2f688
+      internalID: -1981429460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_50
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 132
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bbf21246d967f4f913cdbb10169ff2
+      internalID: -1564829947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_51
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 132
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd52eec107386a4b9ab2f0b6c2e3409
+      internalID: -1244277906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - RudinnRudinn Ranger_52
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 132
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f979dc42b576e1c4aab2974167205885
+      internalID: -455840020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Deltarune - RudinnRudinn Ranger_50: -1564829947
+      PC Computer - Deltarune - RudinnRudinn Ranger_41: -1823019554
+      PC Computer - Deltarune - RudinnRudinn Ranger_7: -803528713
+      PC Computer - Deltarune - RudinnRudinn Ranger_40: -107948856
+      PC Computer - Deltarune - RudinnRudinn Ranger_25: -162987017
+      PC Computer - Deltarune - RudinnRudinn Ranger_18: -1299816339
+      PC Computer - Deltarune - RudinnRudinn Ranger_51: -1244277906
+      PC Computer - Deltarune - RudinnRudinn Ranger_4: 365500063
+      PC Computer - Deltarune - RudinnRudinn Ranger_38: -7250508
+      PC Computer - Deltarune - RudinnRudinn Ranger_10: 1923077563
+      PC Computer - Deltarune - RudinnRudinn Ranger_37: -725612546
+      PC Computer - Deltarune - RudinnRudinn Ranger_19: 2123249586
+      PC Computer - Deltarune - RudinnRudinn Ranger_28: 2111617035
+      PC Computer - Deltarune - RudinnRudinn Ranger_1: -978889647
+      PC Computer - Deltarune - RudinnRudinn Ranger_32: -8742687
+      PC Computer - Deltarune - RudinnRudinn Ranger_47: 1993253441
+      PC Computer - Deltarune - RudinnRudinn Ranger_16: -798681368
+      PC Computer - Deltarune - RudinnRudinn Ranger_12: -2122258110
+      PC Computer - Deltarune - RudinnRudinn Ranger_17: -1387466034
+      PC Computer - Deltarune - RudinnRudinn Ranger_23: -247836971
+      PC Computer - Deltarune - RudinnRudinn Ranger_31: -840279646
+      PC Computer - Deltarune - RudinnRudinn Ranger_44: -312077354
+      PC Computer - Deltarune - RudinnRudinn Ranger_42: -406159591
+      PC Computer - Deltarune - RudinnRudinn Ranger_5: -1665377580
+      PC Computer - Deltarune - RudinnRudinn Ranger_11: 1448852003
+      PC Computer - Deltarune - RudinnRudinn Ranger_35: 455817243
+      PC Computer - Deltarune - RudinnRudinn Ranger_49: -1981429460
+      PC Computer - Deltarune - RudinnRudinn Ranger_20: -928791495
+      PC Computer - Deltarune - RudinnRudinn Ranger_21: 167756341
+      PC Computer - Deltarune - RudinnRudinn Ranger_24: -842572755
+      PC Computer - Deltarune - RudinnRudinn Ranger_39: -2124850887
+      PC Computer - Deltarune - RudinnRudinn Ranger_9: -36158307
+      PC Computer - Deltarune - RudinnRudinn Ranger_3: -739904379
+      PC Computer - Deltarune - RudinnRudinn Ranger_36: 649098051
+      PC Computer - Deltarune - RudinnRudinn Ranger_0: -1282461698
+      PC Computer - Deltarune - RudinnRudinn Ranger_30: 1777346241
+      PC Computer - Deltarune - RudinnRudinn Ranger_8: -1968715165
+      PC Computer - Deltarune - RudinnRudinn Ranger_13: 245800578
+      PC Computer - Deltarune - RudinnRudinn Ranger_22: -116691343
+      PC Computer - Deltarune - RudinnRudinn Ranger_26: -629942874
+      PC Computer - Deltarune - RudinnRudinn Ranger_52: -455840020
+      PC Computer - Deltarune - RudinnRudinn Ranger_15: 1849660638
+      PC Computer - Deltarune - RudinnRudinn Ranger_6: 196689069
+      PC Computer - Deltarune - RudinnRudinn Ranger_46: -120918796
+      PC Computer - Deltarune - RudinnRudinn Ranger_48: 386470361
+      PC Computer - Deltarune - RudinnRudinn Ranger_43: 1534721218
+      PC Computer - Deltarune - RudinnRudinn Ranger_29: 1881414643
+      PC Computer - Deltarune - RudinnRudinn Ranger_45: 1681308393
+      PC Computer - Deltarune - RudinnRudinn Ranger_34: 433303207
+      PC Computer - Deltarune - RudinnRudinn Ranger_14: -472360624
+      PC Computer - Deltarune - RudinnRudinn Ranger_27: 1372111842
+      PC Computer - Deltarune - RudinnRudinn Ranger_33: -316502095
+      PC Computer - Deltarune - RudinnRudinn Ranger_2: 1478268737
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 9a4b3956711d279498581216c51c3f13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2408310128104601775
+    second: delta-fate_0
+  - first:
+      213: -2454156535008235508
+    second: delta-fate_1
+  - first:
+      213: 382838109418947054
+    second: delta-fate_2
+  - first:
+      213: -3541507048123296950
+    second: delta-fate_3
+  - first:
+      213: -5542008724229314422
+    second: delta-fate_4
+  - first:
+      213: -6591196240603202895
+    second: delta-fate_5
+  - first:
+      213: -5522094183232279235
+    second: delta-fate_6
+  - first:
+      213: -7614437693961149849
+    second: delta-fate_7
+  - first:
+      213: 7318894037902388592
+    second: delta-fate_8
+  - first:
+      213: 3418555420676556234
+    second: delta-fate_9
+  - first:
+      213: 4375060392080022106
+    second: delta-fate_10
+  - first:
+      213: -6295360351194805616
+    second: delta-fate_11
+  - first:
+      213: -8263360918170375141
+    second: delta-fate_12
+  - first:
+      213: 879422968167640549
+    second: delta-fate_13
+  - first:
+      213: 2415821965317959725
+    second: delta-fate_14
+  - first:
+      213: 742230683607901849
+    second: delta-fate_15
+  - first:
+      213: -3596666775538355823
+    second: delta-fate_16
+  - first:
+      213: -2646260054906941791
+    second: delta-fate_17
+  - first:
+      213: 1222181345121829313
+    second: delta-fate_18
+  - first:
+      213: -9156379030351376263
+    second: delta-fate_19
+  - first:
+      213: -5178930361090342033
+    second: delta-fate_20
+  - first:
+      213: 1479201200716815654
+    second: delta-fate_21
+  - first:
+      213: -562897554230709131
+    second: delta-fate_22
+  - first:
+      213: -957808764567760041
+    second: delta-fate_23
+  - first:
+      213: 6818793641565886407
+    second: delta-fate_24
+  - first:
+      213: -5533829763492846841
+    second: delta-fate_25
+  - first:
+      213: -4853178973743841830
+    second: delta-fate_26
+  - first:
+      213: -6480171449048969776
+    second: delta-fate_27
+  - first:
+      213: 312100034959935392
+    second: delta-fate_28
+  - first:
+      213: 8929397447754714174
+    second: delta-fate_29
+  - first:
+      213: -2987151543638971429
+    second: delta-fate_30
+  - first:
+      213: 8559845204565254824
+    second: delta-fate_31
+  - first:
+      213: 8509825546564974008
+    second: delta-fate_32
+  - first:
+      213: 9179917139761436334
+    second: delta-fate_33
+  - first:
+      213: -6686856342279708520
+    second: delta-fate_34
+  - first:
+      213: -4929676826217453777
+    second: delta-fate_35
+  - first:
+      213: -8170328288409975667
+    second: delta-fate_36
+  - first:
+      213: 2441173243680346066
+    second: delta-fate_37
+  - first:
+      213: 9121737853216885611
+    second: delta-fate_38
+  - first:
+      213: 6266070122305407521
+    second: delta-fate_39
+  - first:
+      213: -6443513477763950680
+    second: delta-fate_40
+  - first:
+      213: -5162310673096682591
+    second: delta-fate_41
+  - first:
+      213: 1213440689195233520
+    second: delta-fate_42
+  - first:
+      213: -5153481901780637394
+    second: delta-fate_43
+  - first:
+      213: 8655707993514473785
+    second: delta-fate_44
+  - first:
+      213: 8305043690395366994
+    second: delta-fate_45
+  - first:
+      213: -6257846600006210838
+    second: delta-fate_46
+  - first:
+      213: -7319210601931458820
+    second: delta-fate_47
+  - first:
+      213: -5810673123140950816
+    second: delta-fate_48
+  - first:
+      213: 2103054802366410292
+    second: delta-fate_49
+  - first:
+      213: 3270660483621744742
+    second: delta-fate_50
+  - first:
+      213: -4664958523716539944
+    second: delta-fate 1_0
+  - first:
+      213: -3625083003647852244
+    second: delta-fate 1_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 1
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 1
+    borderMipMap: 1
+    mipMapsPreserveCoverage: 1
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 0
+    mipMapFadeDistanceEnd: 10
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: delta-fate 2_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 536
+        width: 16
+        height: 53
+      alignment: 9
+      pivot: {x: 0.48610854, y: 0.015630757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d5810f6501b7d4d8b7d6114d27718a
+      internalID: -685511239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delta-fate 2_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 537
+        width: 21
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5370447, y: 0.019824909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeef7c88450258e4db883913f6710e92
+      internalID: 1492464200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delta-fate 2_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 537
+        width: 35
+        height: 53
+      alignment: 9
+      pivot: {x: 0.3253636, y: 0.026114985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43375e0569b897449b9ab77c9ff6cd09
+      internalID: -1804173074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delta-fate 2_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 537
+        width: 31
+        height: 53
+      alignment: 9
+      pivot: {x: 0.23471636, y: 0.030309137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f47b911572bbf49830df946c0ee9b4
+      internalID: 1761917146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delta-fate 2_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 537
+        width: 46
+        height: 53
+      alignment: 9
+      pivot: {x: 0.16418722, y: 0.013533683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053658f5021e7fa4db5f638c0e2f269d
+      internalID: 241944585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delta-fate 2_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 537
+        width: 46
+        height: 53
+      alignment: 9
+      pivot: {x: 0.1569393, y: 0.015630757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc21b63047c83d499658f79d2faa8c8
+      internalID: 1170278633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delta-fate 2_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 540
+        width: 39
+        height: 53
+      alignment: 9
+      pivot: {x: 0.18370017, y: 0.02401791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756a2eb28c6a56c4aaf45647a19b0bce
+      internalID: 43707283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delta-fate 2_7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 541
+        width: 31
+        height: 53
+      alignment: 9
+      pivot: {x: 0.24188626, y: 0.028212061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cca0601bbbd234f8c24eced81a9777
+      internalID: -486829061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delta-fate 2_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 538
+        width: 35
+        height: 53
+      alignment: 9
+      pivot: {x: 0.32218888, y: 0.019824909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91af14ac63e9f1543b404e5c11116362
+      internalID: 144876549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delta-fate 2_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 540
+        width: 21
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5317528, y: 0.019824909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddad90471fae60a4e856a5a2a429b817
+      internalID: -1561189212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      delta-fate 2_5: 1170278633
+      delta-fate 2_9: -1561189212
+      delta-fate 2_0: -685511239
+      delta-fate 2_2: -1804173074
+      delta-fate 2_3: 1761917146
+      delta-fate 2_1: 1492464200
+      delta-fate 2_4: 241944585
+      delta-fate 2_7: -486829061
+      delta-fate 2_6: 43707283
+      delta-fate 2_8: 144876549
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

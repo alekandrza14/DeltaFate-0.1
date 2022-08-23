@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 986e4fd52ed46094398fb634f7e88420
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2403626556140318763
+    second: kenpirator_0
+  - first:
+      213: 3701027402026010172
+    second: kenpirator_1
+  - first:
+      213: 7140137713952445326
+    second: kenpirator_2
+  - first:
+      213: 181291535398483549
+    second: kenpirator_3
+  - first:
+      213: 8562019865259932375
+    second: kenpirator_4
+  - first:
+      213: -5413730655684438315
+    second: kenpirator_5
+  - first:
+      213: -701819356650654905
+    second: kenpirator_6
+  - first:
+      213: -6643023917892061640
+    second: kenpirator_7
+  - first:
+      213: 5244485390401118308
+    second: kenpirator_8
+  - first:
+      213: 4615050285671920405
+    second: kenpirator_9
+  - first:
+      213: 6783555877840533089
+    second: kenpirator_10
+  - first:
+      213: 5974559238619110246
+    second: kenpirator_11
+  - first:
+      213: -299158372908705159
+    second: kenpirator_12
+  - first:
+      213: -886914431373510811
+    second: kenpirator_13
+  - first:
+      213: 871210023802474763
+    second: kenpirator_14
+  - first:
+      213: -4602722755429098360
+    second: kenpirator_15
+  - first:
+      213: 8491398773054509762
+    second: kenpirator_16
+  - first:
+      213: 1511522997186782102
+    second: kenpirator_17
+  - first:
+      213: -3935714669927982701
+    second: kenpirator_18
+  - first:
+      213: 9101076259821075293
+    second: kenpirator_19
+  - first:
+      213: -8708503934815830387
+    second: kenpirator_20
+  - first:
+      213: -366548548514322805
+    second: kenpirator_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kenpirator_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 376
+        width: 53
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20707b2e956b5120800000000000000
+      internalID: 2403626556140318763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 372
+        width: 53
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c364fb130d0bc5330800000000000000
+      internalID: 3701027402026010172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 371
+        width: 52
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e835187bb6dd61360800000000000000
+      internalID: 7140137713952445326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 382
+        width: 60
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d563630e0b3148200800000000000000
+      internalID: 181291535398483549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 344
+        width: 53
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daf7a434b762d670800000000000000
+      internalID: 8562019865259932375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 331
+        width: 53
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6594ed6a09ed4b0800000000000000
+      internalID: -5413730655684438315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 248
+        width: 52
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74338567303a246f0800000000000000
+      internalID: -701819356650654905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 296
+        width: 87
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836be9361fc3fc3a0800000000000000
+      internalID: -6643023917892061640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 296
+        width: 87
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460a5941da728c840800000000000000
+      internalID: 5244485390401118308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 296
+        width: 87
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5133a0288c3fb0040800000000000000
+      internalID: 4615050285671920405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 270
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166b2bc4128042e50800000000000000
+      internalID: 6783555877840533089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_11
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 271
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b9b6319f5e9e250800000000000000
+      internalID: 5974559238619110246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 270
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a513b7b0d29dbf0800000000000000
+      internalID: -299158372908705159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 271
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56770d3160c01b3f0800000000000000
+      internalID: -886914431373510811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 179
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01918996e8271c00800000000000000
+      internalID: 871210023802474763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_15
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 180
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c9a0b4a08df10c0800000000000000
+      internalID: -4602722755429098360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 136
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c21a1ad13287d570800000000000000
+      internalID: 8491398773054509762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 91
+        width: 60
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693e62558220af410800000000000000
+      internalID: 1511522997186782102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_18
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 85
+        width: 60
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39916a92c588169c0800000000000000
+      internalID: -3935714669927982701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_19
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 87
+        width: 60
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b306483a48d4e70800000000000000
+      internalID: 9101076259821075293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_20
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 45
+        width: 52
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4698639, y: 0.02715169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ef5389fcd252780800000000000000
+      internalID: -8708503934815830387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenpirator_21
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 54
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b866ed48902c9eaf0800000000000000
+      internalID: -366548548514322805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kenpirator_6: -701819356650654905
+      kenpirator_18: -3935714669927982701
+      kenpirator_19: 9101076259821075293
+      kenpirator_10: 6783555877840533089
+      kenpirator_8: 5244485390401118308
+      kenpirator_20: -8708503934815830387
+      kenpirator_13: -886914431373510811
+      kenpirator_1: 3701027402026010172
+      kenpirator_7: -6643023917892061640
+      kenpirator_12: -299158372908705159
+      kenpirator_2: 7140137713952445326
+      kenpirator_14: 871210023802474763
+      kenpirator_17: 1511522997186782102
+      kenpirator_4: 8562019865259932375
+      kenpirator_16: 8491398773054509762
+      kenpirator_21: -366548548514322805
+      kenpirator_0: 2403626556140318763
+      kenpirator_11: 5974559238619110246
+      kenpirator_15: -4602722755429098360
+      kenpirator_5: -5413730655684438315
+      kenpirator_3: 181291535398483549
+      kenpirator_9: 4615050285671920405
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: f6cf1a0114ae397459fa4ab75e3d16a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8701967350845100491
+    second: deltafate trees_0
+  - first:
+      213: 1119550175530049773
+    second: deltafate trees_1
+  - first:
+      213: 2026172860543447855
+    second: deltafate trees_2
+  - first:
+      213: 1887738574481646323
+    second: deltafate trees_3
+  - first:
+      213: -6665852003623811678
+    second: deltafate trees_4
+  - first:
+      213: -6943240354980636399
+    second: deltafate trees_5
+  - first:
+      213: 4218569924461263302
+    second: deltafate trees_6
+  - first:
+      213: 5171972353928628574
+    second: deltafate trees_7
+  - first:
+      213: -7581970942916553183
+    second: deltafate trees_8
+  - first:
+      213: -4900450728685661951
+    second: deltafate trees_9
+  - first:
+      213: -5992667324757804561
+    second: deltafate trees_10
+  - first:
+      213: -2740628818646323354
+    second: deltafate trees_11
+  - first:
+      213: -8126203128318592810
+    second: deltafate trees_12
+  - first:
+      213: 7660692118018808880
+    second: deltafate trees_13
+  - first:
+      213: -6119386852175809140
+    second: deltafate trees_14
+  - first:
+      213: 941151941568227021
+    second: deltafate trees_15
+  - first:
+      213: 5855355539705666077
+    second: deltafate trees_16
+  - first:
+      213: -1297001888888570375
+    second: deltafate trees_17
+  - first:
+      213: 8264761565921753273
+    second: deltafate trees_18
+  - first:
+      213: -5667201469887799181
+    second: deltafate trees_19
+  - first:
+      213: 8727428416616206170
+    second: deltafate trees_20
+  - first:
+      213: -967561874808823201
+    second: deltafate trees_21
+  - first:
+      213: -3266556630183923577
+    second: deltafate trees_22
+  - first:
+      213: 3179453688366413494
+    second: deltafate trees_23
+  - first:
+      213: -5373337899752507118
+    second: deltafate trees_24
+  - first:
+      213: 6738011996863112542
+    second: deltafate trees_25
+  - first:
+      213: -1783673239703781997
+    second: deltafate trees_26
+  - first:
+      213: 1940932924115910312
+    second: deltafate trees_27
+  - first:
+      213: 6891616538524884043
+    second: deltafate trees_28
+  - first:
+      213: 4191657243806631722
+    second: deltafate trees_29
+  - first:
+      213: 1934112178466237853
+    second: deltafate trees_30
+  - first:
+      213: 348718018205783790
+    second: deltafate trees_31
+  - first:
+      213: -8280435094661224980
+    second: deltafate trees_32
+  - first:
+      213: -4012378859069632913
+    second: deltafate trees_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deltafate trees_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 372
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ea4d5acc66c3780800000000000000
+      internalID: -8701967350845100491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 373
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0e1b8f3f0798f00800000000000000
+      internalID: 1119550175530049773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 288
+        width: 81
+        height: 96
+      alignment: 9
+      pivot: {x: 0.529032, y: 0.08357874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23ba364b796e1c10800000000000000
+      internalID: 2026172860543447855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 346
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2e7c85b38923a10800000000000000
+      internalID: 1887738574481646323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 348
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a54dae7be22e73a0800000000000000
+      internalID: -6665852003623811678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 351
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119d83b1fa7a4af90800000000000000
+      internalID: -6943240354980636399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 326
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f8afcefe5b8a30800000000000000
+      internalID: 4218569924461263302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 339
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e598e00247986c740800000000000000
+      internalID: 5171972353928628574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 231
+        width: 82
+        height: 138
+      alignment: 9
+      pivot: {x: 0.42830676, y: 0.06973322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1261022399d67c690800000000000000
+      internalID: -7581970942916553183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_9
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 225
+        width: 239
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1011365a60a1efbb0800000000000000
+      internalID: -4900450728685661951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 308
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07038997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe978b291d4c5dca0800000000000000
+      internalID: -5992667324757804561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 307
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f23632c9457f9d0800000000000000
+      internalID: -2740628818646323354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 297
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8f6eb2f4de93f80800000000000000
+      internalID: -8126203128318592810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 309
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c552ca4ee305a60800000000000000
+      internalID: 7660692118018808880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 289
+        width: 79
+        height: 58
+      alignment: 9
+      pivot: {x: 0.47023377, y: 0.1249679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c857dd07412931ba0800000000000000
+      internalID: -6119386852175809140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_15
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 248
+        width: 155
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6e7d454b4af0d00800000000000000
+      internalID: 941151941568227021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 263
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a95c127d6624150800000000000000
+      internalID: 5855355539705666077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 265
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd39c367af100ee0800000000000000
+      internalID: -1297001888888570375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 268
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8311a0bd452b270800000000000000
+      internalID: 8264761565921753273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 243
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37024cc0a4e0a51b0800000000000000
+      internalID: -5667201469887799181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 256
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f0f0fa7ed0e1970800000000000000
+      internalID: 8727428416616206170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_21
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 210
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f522fc9e9978292f0800000000000000
+      internalID: -967561874808823201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 225
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780b0334d0cdaa2d0800000000000000
+      internalID: -3266556630183923577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 224
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6b2eab840bf1c20800000000000000
+      internalID: 3179453688366413494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 214
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219bb1b36a11e65b0800000000000000
+      internalID: -5373337899752507118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 226
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55a85d263a328d50800000000000000
+      internalID: 6738011996863112542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 173
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39df51883ae1f37e0800000000000000
+      internalID: -1783673239703781997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 41
+        width: 82
+        height: 138
+      alignment: 9
+      pivot: {x: 0.4641533, y: 0.091033414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aef9c206349fea10800000000000000
+      internalID: 1940932924115910312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_28
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 94
+        width: 81
+        height: 96
+      alignment: 9
+      pivot: {x: 0.50000036, y: 0.03458762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c9bfa7ab0f3af50800000000000000
+      internalID: 6891616538524884043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 37
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27894d0e02cb2a30800000000000000
+      internalID: 4191657243806631722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_30
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 31
+        width: 239
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5245982, y: 0.05908296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dac3967c857da10800000000000000
+      internalID: 1934112178466237853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_31
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 95
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee61fe1a035e6d400800000000000000
+      internalID: 348718018205783790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_32
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 54
+        width: 155
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce52a0d272cf51d80800000000000000
+      internalID: -8280435094661224980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltafate trees_33
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 16
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e0ed8afaa2158c0800000000000000
+      internalID: -4012378859069632913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      deltafate trees_23: 3179453688366413494
+      deltafate trees_5: -6943240354980636399
+      deltafate trees_4: -6665852003623811678
+      deltafate trees_21: -967561874808823201
+      deltafate trees_8: -7581970942916553183
+      deltafate trees_7: 5171972353928628574
+      deltafate trees_17: -1297001888888570375
+      deltafate trees_19: -5667201469887799181
+      deltafate trees_29: 4191657243806631722
+      deltafate trees_18: 8264761565921753273
+      deltafate trees_27: 1940932924115910312
+      deltafate trees_12: -8126203128318592810
+      deltafate trees_1: 1119550175530049773
+      deltafate trees_2: 2026172860543447855
+      deltafate trees_14: -6119386852175809140
+      deltafate trees_26: -1783673239703781997
+      deltafate trees_15: 941151941568227021
+      deltafate trees_25: 6738011996863112542
+      deltafate trees_3: 1887738574481646323
+      deltafate trees_32: -8280435094661224980
+      deltafate trees_0: -8701967350845100491
+      deltafate trees_28: 6891616538524884043
+      deltafate trees_30: 1934112178466237853
+      deltafate trees_16: 5855355539705666077
+      deltafate trees_6: 4218569924461263302
+      deltafate trees_9: -4900450728685661951
+      deltafate trees_10: -5992667324757804561
+      deltafate trees_24: -5373337899752507118
+      deltafate trees_33: -4012378859069632913
+      deltafate trees_20: 8727428416616206170
+      deltafate trees_22: -3266556630183923577
+      deltafate trees_31: 348718018205783790
+      deltafate trees_11: -2740628818646323354
+      deltafate trees_13: 7660692118018808880
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

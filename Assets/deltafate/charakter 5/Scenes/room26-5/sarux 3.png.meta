@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 130cbff2fc6c9b6409a2809e2160adf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -699656788151755722
+    second: sarux 3_0
+  - first:
+      213: -757372171793817119
+    second: sarux 3_1
+  - first:
+      213: -1825126629884344084
+    second: sarux 3_2
+  - first:
+      213: -7113208291164725198
+    second: sarux 3_3
+  - first:
+      213: -8845469221987120072
+    second: sarux 3_4
+  - first:
+      213: -4381734106965733393
+    second: sarux 3_5
+  - first:
+      213: 7598197249996129362
+    second: sarux 3_6
+  - first:
+      213: 8337513875369265535
+    second: sarux 3_7
+  - first:
+      213: -4278739930107448712
+    second: sarux 3_8
+  - first:
+      213: 7559335459090096563
+    second: sarux 3_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sarux 3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 54
+        height: 74
+      alignment: 9
+      pivot: {x: 0.48182073, y: 0.033056326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c168dabd15a46f0800000000000000
+      internalID: -699656788151755722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarux 3_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 54
+        height: 74
+      alignment: 9
+      pivot: {x: 0.48909363, y: 0.0622403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1a671c5064d75f0800000000000000
+      internalID: -757372171793817119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarux 3_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 54
+        height: 74
+      alignment: 9
+      pivot: {x: 0.47091392, y: 0.051627945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce843a30009dba6e0800000000000000
+      internalID: -1825126629884344084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarux 3_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1
+        width: 33
+        height: 75
+      alignment: 9
+      pivot: {x: 0.46698323, y: 0.03997511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23063cf1fbec84d90800000000000000
+      internalID: -7113208291164725198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarux 3_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 33
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5353389, y: 0.05130361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c8ecf9b949e3580800000000000000
+      internalID: -8845469221987120072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarux 3_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1
+        width: 33
+        height: 75
+      alignment: 9
+      pivot: {x: 0.48485404, y: 0.053524874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef081e8b04f033c0800000000000000
+      internalID: -4381734106965733393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarux 3_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1
+        width: 33
+        height: 75
+      alignment: 9
+      pivot: {x: 0.47475827, y: 0.044639796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2548e535428327960800000000000000
+      internalID: 7598197249996129362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarux 3_7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1
+        width: 54
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48982975, y: 0.05109826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79864312bcc4b370800000000000000
+      internalID: 8337513875369265535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarux 3_8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1
+        width: 54
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48304975, y: 0.05611392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8727aab04bcde94c0800000000000000
+      internalID: -4278739930107448712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarux 3_9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.034692943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b164198c8728e860800000000000000
+      internalID: 7559335459090096563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sarux 3_4: -8845469221987120072
+      sarux 3_0: -699656788151755722
+      sarux 3_1: -757372171793817119
+      sarux 3_9: 7559335459090096563
+      sarux 3_7: 8337513875369265535
+      sarux 3_3: -7113208291164725198
+      sarux 3_8: -4278739930107448712
+      sarux 3_5: -4381734106965733393
+      sarux 3_6: 7598197249996129362
+      sarux 3_2: -1825126629884344084
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

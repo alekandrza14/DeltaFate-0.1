@@ -1,0 +1,1697 @@
+fileFormatVersion: 2
+guid: 0126dc01ff5303e49a5c7f48595d3fc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4465607129570534462
+    second: alexandr-unauticna-disine_0
+  - first:
+      213: -6299294313795541547
+    second: alexandr-unauticna-disine_1
+  - first:
+      213: -5433373097636029356
+    second: alexandr-unauticna-disine_2
+  - first:
+      213: -1551767386245606703
+    second: alexandr-unauticna-disine_3
+  - first:
+      213: 6042507910841000761
+    second: alexandr-unauticna-disine_4
+  - first:
+      213: 1069554883218526351
+    second: alexandr-unauticna-disine_5
+  - first:
+      213: -7120828639642330984
+    second: alexandr-unauticna-disine_6
+  - first:
+      213: -4275371487780373300
+    second: alexandr-unauticna-disine_7
+  - first:
+      213: 3307755182193293621
+    second: alexandr-unauticna-disine_8
+  - first:
+      213: 7669681757089949836
+    second: alexandr-unauticna-disine_9
+  - first:
+      213: 3569008995363430207
+    second: alexandr-unauticna-disine_10
+  - first:
+      213: 7976793174576814547
+    second: alexandr-unauticna-disine_11
+  - first:
+      213: -6346139247354488697
+    second: alexandr-unauticna-disine_12
+  - first:
+      213: -3933963546334056873
+    second: alexandr-unauticna-disine_13
+  - first:
+      213: -5742982589159510750
+    second: alexandr-unauticna-disine_14
+  - first:
+      213: -6213270808772465264
+    second: alexandr-unauticna-disine_15
+  - first:
+      213: 4917201623699379042
+    second: alexandr-unauticna-disine_16
+  - first:
+      213: 1795279330432537778
+    second: alexandr-unauticna-disine_17
+  - first:
+      213: 8750449662502630314
+    second: alexandr-unauticna-disine_18
+  - first:
+      213: 8155066550859841231
+    second: alexandr-unauticna-disine_19
+  - first:
+      213: -5665816745651627361
+    second: alexandr-unauticna-disine_20
+  - first:
+      213: -53249445656468369
+    second: alexandr-unauticna-disine_21
+  - first:
+      213: -5701650735136782622
+    second: alexandr-unauticna-disine_22
+  - first:
+      213: 1523171439813747736
+    second: alexandr-unauticna-disine_23
+  - first:
+      213: -5231094542798126384
+    second: alexandr-unauticna-disine_24
+  - first:
+      213: 8577922875328648352
+    second: alexandr-unauticna-disine_25
+  - first:
+      213: 1853950844851882122
+    second: alexandr-unauticna-disine_26
+  - first:
+      213: 2754219713046978227
+    second: alexandr-unauticna-disine_27
+  - first:
+      213: 7469909179759226640
+    second: alexandr-unauticna-disine_28
+  - first:
+      213: 2299876586582175404
+    second: alexandr-unauticna-disine_29
+  - first:
+      213: -3441488942548454101
+    second: alexandr-unauticna-disine_30
+  - first:
+      213: 2983654787762200508
+    second: alexandr-unauticna-disine_31
+  - first:
+      213: -2369129641596815068
+    second: alexandr-unauticna-disine_32
+  - first:
+      213: -6229297718585714274
+    second: alexandr-unauticna-disine_33
+  - first:
+      213: -5761076516190798980
+    second: alexandr-unauticna-disine_34
+  - first:
+      213: -7968817067797958098
+    second: alexandr-unauticna-disine_35
+  - first:
+      213: 6895158774538247596
+    second: alexandr-unauticna-disine_36
+  - first:
+      213: 7217802314781962490
+    second: alexandr-unauticna-disine_37
+  - first:
+      213: 8126540317041041637
+    second: alexandr-unauticna-disine_38
+  - first:
+      213: -2244269524993857246
+    second: alexandr-unauticna-disine_39
+  - first:
+      213: 6219239546576574760
+    second: alexandr-unauticna-disine_40
+  - first:
+      213: -3987658036691379926
+    second: alexandr-unauticna-disine_41
+  - first:
+      213: 9151698162303484223
+    second: alexandr-unauticna-disine_42
+  - first:
+      213: 5971394992745681630
+    second: alexandr-unauticna-disine_43
+  - first:
+      213: -4961126228416837267
+    second: alexandr-unauticna-disine_44
+  - first:
+      213: 8291757592584329207
+    second: alexandr-unauticna-disine_45
+  - first:
+      213: 1584110668813347522
+    second: alexandr-unauticna-disine_46
+  - first:
+      213: -973438230185800872
+    second: alexandr-unauticna-disine_47
+  - first:
+      213: -7739025769251083244
+    second: alexandr-unauticna-disine_48
+  - first:
+      213: 797347340156557106
+    second: alexandr-unauticna-disine_49
+  - first:
+      213: -1317901822276625336
+    second: alexandr-unauticna-disine_50
+  - first:
+      213: -5777296590129253409
+    second: alexandr-unauticna-disine_51
+  - first:
+      213: -2113900791046776363
+    second: alexandr-unauticna-disine_52
+  - first:
+      213: 4305027108876697166
+    second: alexandr-unauticna-disine_53
+  - first:
+      213: 476239685564019508
+    second: alexandr-unauticna-disine_54
+  - first:
+      213: 3636716374848821921
+    second: alexandr-unauticna-disine_55
+  - first:
+      213: -4561798457974917915
+    second: alexandr-unauticna-disine_56
+  - first:
+      213: -5360869278391130984
+    second: alexandr-unauticna-disine_57
+  - first:
+      213: 5597744026091966649
+    second: alexandr-unauticna-disine_58
+  - first:
+      213: -8139978087035259235
+    second: alexandr-unauticna-disine_59
+  - first:
+      213: 3182021815168508034
+    second: alexandr-unauticna-disine_60
+  - first:
+      213: -5075650882584658795
+    second: alexandr-unauticna-disine_61
+  - first:
+      213: 2847580237787754899
+    second: alexandr-unauticna-disine_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1281
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34e088460609fd30800000000000000
+      internalID: 4465607129570534462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1278
+        width: 25
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5249a52396498a0800000000000000
+      internalID: -6299294313795541547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1280
+        width: 31
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c9d3774f7c894b0800000000000000
+      internalID: -5433373097636029356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1280
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d25bc8a8c3077ae0800000000000000
+      internalID: -1551767386245606703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1373
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9336a2a2eec4bd350800000000000000
+      internalID: 6042507910841000761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1376
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f805602ef72d7de00800000000000000
+      internalID: 1069554883218526351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1376
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898d0bb741cbd2d90800000000000000
+      internalID: -7120828639642330984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1375
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc7404a844daa4c0800000000000000
+      internalID: -4275371487780373300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1156
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539b69e10d187ed20800000000000000
+      internalID: 3307755182193293621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1153
+        width: 25
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88e3af1cee207a60800000000000000
+      internalID: 7669681757089949836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1155
+        width: 31
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f9fc895caa78130800000000000000
+      internalID: 3569008995363430207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1155
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d95961212343be60800000000000000
+      internalID: 7976793174576814547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1253
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78855425afbfde7a0800000000000000
+      internalID: -6346139247354488697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1253
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e2c656ff0c769c0800000000000000
+      internalID: -3933963546334056873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1253
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22de4e543c3dc40b0800000000000000
+      internalID: -5742982589159510750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1253
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d20d56e1706c9a0800000000000000
+      internalID: -6213270808772465264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_16
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1253
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263539503d86d3440800000000000000
+      internalID: 4917201623699379042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1030
+        width: 42
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4580b0a0d1ae810800000000000000
+      internalID: 1795279330432537778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1030
+        width: 37
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3f76e2b97df6970800000000000000
+      internalID: 8750449662502630314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1029
+        width: 36
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcebba312dd9c2170800000000000000
+      internalID: 8155066550859841231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1032
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a99f840b9fe51b0800000000000000
+      internalID: -5665816745651627361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1033
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64e82b49e1d24ff0800000000000000
+      internalID: -53249445656468369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 902
+        width: 43
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6c3d27ddaafd0b0800000000000000
+      internalID: -5701650735136782622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 901
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8146e1aba54632510800000000000000
+      internalID: 1523171439813747736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 902
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d288069a3b6767b0800000000000000
+      internalID: -5231094542798126384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 773
+        width: 52
+        height: 116
+      alignment: 9
+      pivot: {x: 0.49574205, y: 0.04190695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a459a64867ea0770800000000000000
+      internalID: 8577922875328648352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 770
+        width: 25
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5265692, y: 0.047633205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a888e62887e8ab910800000000000000
+      internalID: 1853950844851882122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_27
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 772
+        width: 31
+        height: 116
+      alignment: 9
+      pivot: {x: 0.21430773, y: 0.0705377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be1b8d8c34f83620800000000000000
+      internalID: 2754219713046978227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_28
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 772
+        width: 52
+        height: 116
+      alignment: 9
+      pivot: {x: 0.49148414, y: 0.064811446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f6afb52d27aa760800000000000000
+      internalID: 7469909179759226640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_29
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 867
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caee77af19dcaef10800000000000000
+      internalID: 2299876586582175404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 870
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25f6f06a006d30d0800000000000000
+      internalID: -3441488942548454101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_31
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 870
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf95fca832186920800000000000000
+      internalID: 2983654787762200508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 647
+        width: 42
+        height: 118
+      alignment: 9
+      pivot: {x: 0.4860088, y: 0.0518054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429f5c5a4292f1fd0800000000000000
+      internalID: -2369129641596815068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_33
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 647
+        width: 37
+        height: 116
+      alignment: 9
+      pivot: {x: 0.53176385, y: 0.021281801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e991c8baab61d89a0800000000000000
+      internalID: -6229297718585714274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 646
+        width: 36
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5244849, y: 0.03935578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3a989e6b8c00b0800000000000000
+      internalID: -5761076516190798980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 649
+        width: 52
+        height: 116
+      alignment: 9
+      pivot: {x: 0.516951, y: 0.06434105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2235d1f813196190800000000000000
+      internalID: -7968817067797958098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 650
+        width: 52
+        height: 116
+      alignment: 9
+      pivot: {x: 0.58475494, y: 0.033946596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad15429f5680bf50800000000000000
+      internalID: 6895158774538247596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_37
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 519
+        width: 43
+        height: 116
+      alignment: 9
+      pivot: {x: 0.52049905, y: 0.07700532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af03297b6f8ca2460800000000000000
+      internalID: 7217802314781962490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 518
+        width: 52
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5282515, y: 0.02634772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e02f12bc5547c070800000000000000
+      internalID: 8126540317041041637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 519
+        width: 52
+        height: 116
+      alignment: 9
+      pivot: {x: 0.4773988, y: 0.03394607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229a186f1c0cad0e0800000000000000
+      internalID: -2244269524993857246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 421
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82912caaa6d2f4650800000000000000
+      internalID: 6219239546576574760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_41
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 423
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a295745a42ef8a8c0800000000000000
+      internalID: -3987658036691379926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_42
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 423
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31c1b7adfc510f70800000000000000
+      internalID: 9151698162303484223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 423
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2172cab18aed250800000000000000
+      internalID: 5971394992745681630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_44
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 345
+        width: 146
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69475dfaf9862bb0800000000000000
+      internalID: -4961126228416837267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_45
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 311
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f713ad499d321370800000000000000
+      internalID: 8291757592584329207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_46
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 311
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caa683a244ebf510800000000000000
+      internalID: 1584110668813347522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_47
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 311
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b8dfe4617ad72f0800000000000000
+      internalID: -973438230185800872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 310
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ce134e015799490800000000000000
+      internalID: -7739025769251083244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 311
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23752ac6e2fb01b00800000000000000
+      internalID: 797347340156557106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_50
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 311
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c9c52764fd5bde0800000000000000
+      internalID: -1317901822276625336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_51
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 311
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd335475c5be2dfa0800000000000000
+      internalID: -5777296590129253409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_52
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 311
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d95d333e6ae9a2e0800000000000000
+      internalID: -2113900791046776363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_53
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 278
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eb505b8578ebb30800000000000000
+      internalID: 4305027108876697166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_54
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 278
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433bcf58871fb9600800000000000000
+      internalID: 476239685564019508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 278
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aad5b75646387230800000000000000
+      internalID: 3636716374848821921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_56
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 277
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4fa7fc87c31b0c0800000000000000
+      internalID: -4561798457974917915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_57
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 278
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894213e5bcd5a95b0800000000000000
+      internalID: -5360869278391130984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 278
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0d6ca988e2fad40800000000000000
+      internalID: 5597744026091966649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_59
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 278
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96bccaae0df80f80800000000000000
+      internalID: -8139978087035259235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_60
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 278
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280a9a85bffc82c20800000000000000
+      internalID: 3182021815168508034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 209
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cb4ab0a6aaf89b0800000000000000
+      internalID: -5075650882584658795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexandr-unauticna-disine_62
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 189
+        width: 175
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391f2ce9323a48720800000000000000
+      internalID: 2847580237787754899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      alexandr-unauticna-disine_44: -4961126228416837267
+      alexandr-unauticna-disine_3: -1551767386245606703
+      alexandr-unauticna-disine_29: 2299876586582175404
+      alexandr-unauticna-disine_38: 8126540317041041637
+      alexandr-unauticna-disine_56: -4561798457974917915
+      alexandr-unauticna-disine_27: 2754219713046978227
+      alexandr-unauticna-disine_49: 797347340156557106
+      alexandr-unauticna-disine_22: -5701650735136782622
+      alexandr-unauticna-disine_48: -7739025769251083244
+      alexandr-unauticna-disine_55: 3636716374848821921
+      alexandr-unauticna-disine_25: 8577922875328648352
+      alexandr-unauticna-disine_47: -973438230185800872
+      alexandr-unauticna-disine_62: 2847580237787754899
+      alexandr-unauticna-disine_2: -5433373097636029356
+      alexandr-unauticna-disine_19: 8155066550859841231
+      alexandr-unauticna-disine_15: -6213270808772465264
+      alexandr-unauticna-disine_21: -53249445656468369
+      alexandr-unauticna-disine_1: -6299294313795541547
+      alexandr-unauticna-disine_4: 6042507910841000761
+      alexandr-unauticna-disine_60: 3182021815168508034
+      alexandr-unauticna-disine_51: -5777296590129253409
+      alexandr-unauticna-disine_37: 7217802314781962490
+      alexandr-unauticna-disine_58: 5597744026091966649
+      alexandr-unauticna-disine_6: -7120828639642330984
+      alexandr-unauticna-disine_23: 1523171439813747736
+      alexandr-unauticna-disine_12: -6346139247354488697
+      alexandr-unauticna-disine_28: 7469909179759226640
+      alexandr-unauticna-disine_57: -5360869278391130984
+      alexandr-unauticna-disine_53: 4305027108876697166
+      alexandr-unauticna-disine_59: -8139978087035259235
+      alexandr-unauticna-disine_36: 6895158774538247596
+      alexandr-unauticna-disine_8: 3307755182193293621
+      alexandr-unauticna-disine_16: 4917201623699379042
+      alexandr-unauticna-disine_17: 1795279330432537778
+      alexandr-unauticna-disine_5: 1069554883218526351
+      alexandr-unauticna-disine_30: -3441488942548454101
+      alexandr-unauticna-disine_61: -5075650882584658795
+      alexandr-unauticna-disine_45: 8291757592584329207
+      alexandr-unauticna-disine_40: 6219239546576574760
+      alexandr-unauticna-disine_43: 5971394992745681630
+      alexandr-unauticna-disine_31: 2983654787762200508
+      alexandr-unauticna-disine_9: 7669681757089949836
+      alexandr-unauticna-disine_32: -2369129641596815068
+      alexandr-unauticna-disine_52: -2113900791046776363
+      alexandr-unauticna-disine_41: -3987658036691379926
+      alexandr-unauticna-disine_46: 1584110668813347522
+      alexandr-unauticna-disine_13: -3933963546334056873
+      alexandr-unauticna-disine_20: -5665816745651627361
+      alexandr-unauticna-disine_18: 8750449662502630314
+      alexandr-unauticna-disine_7: -4275371487780373300
+      alexandr-unauticna-disine_0: 4465607129570534462
+      alexandr-unauticna-disine_34: -5761076516190798980
+      alexandr-unauticna-disine_50: -1317901822276625336
+      alexandr-unauticna-disine_33: -6229297718585714274
+      alexandr-unauticna-disine_54: 476239685564019508
+      alexandr-unauticna-disine_42: 9151698162303484223
+      alexandr-unauticna-disine_39: -2244269524993857246
+      alexandr-unauticna-disine_35: -7968817067797958098
+      alexandr-unauticna-disine_11: 7976793174576814547
+      alexandr-unauticna-disine_24: -5231094542798126384
+      alexandr-unauticna-disine_14: -5742982589159510750
+      alexandr-unauticna-disine_10: 3569008995363430207
+      alexandr-unauticna-disine_26: 1853950844851882122
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

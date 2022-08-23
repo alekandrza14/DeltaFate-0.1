@@ -1,0 +1,1266 @@
+fileFormatVersion: 2
+guid: 9601623c2bb9a054180ba2b9acaae4bd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2199
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9137b135216f8e2428a58c8213deb2fb
+      internalID: -139863452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2199
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b35bff0f0bff584e9ea249002c4c9d7
+      internalID: -1653859732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2199
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8653aba0c02ec498ddfb831cfe0d79
+      internalID: -1450339922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2199
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bb6781d68649348a0f369fa7f7bdc4
+      internalID: 1923309529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2200
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530768850b6227347ad88d2b2b38d496
+      internalID: -1735071984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2199
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345cd46a9c169c34587d8b33dffe2e69
+      internalID: 2052905418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2200
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740dcf8b6a531b342b3acf2ee0740139
+      internalID: 1608626977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2199
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84610b8ac32b2c2438297df25a76e4df
+      internalID: 1379855230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2199
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fddef21637f3a4fad844b58353ec7a
+      internalID: 1623713858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2199
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e7b8c30635af74590e0bb1b76386b8
+      internalID: -1792272876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2199
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0abe12511aa984aa190c999c2e34d5
+      internalID: -1596971019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2199
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe14355c7ab6fb41bb093e54dd7124d
+      internalID: -948998661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2149
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502efba6d36f89e4fa4c1bf2c8197536
+      internalID: 747076363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2149
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcf9c3d8923ca749bd7711b668d055f
+      internalID: -1317027180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2149
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0ccdb65d5acae42846c3f31c3190c9
+      internalID: 1707673313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2149
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27555c096c7a8494494a53dfae834daf
+      internalID: 437213314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2149
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e410c0f5cfc774bb557cd6772f8290
+      internalID: -1411388486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2149
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2d99d8d355f3d4aa9cc78db1792788
+      internalID: 1479631406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2149
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd161683a2de444787bab7418c565a3
+      internalID: 720586009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2149
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026632196274f9c4384ae0c61bd1270a
+      internalID: 1915298776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2099
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c562fa1c81b388d4f9db480f0f3e8e3d
+      internalID: 37422863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2099
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dca61adb2569c34da0ee94746eb2e24
+      internalID: 1014869545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2099
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8425854080a880d43818d354cadcc67d
+      internalID: -498933909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2099
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25bd1a35f04f0643a8c297db6f404b0
+      internalID: 1531676936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2099
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4216f1aa9b1f0c248be935d204cba6a2
+      internalID: 2089687613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2099
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dac287cf6569d46ad190ef18b56311
+      internalID: -1668705851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2099
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0635885485481d54983955923daaf309
+      internalID: 2082894286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2099
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ddb0a269249194db9c3e2189cea1f8
+      internalID: -2130615130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_28
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2099
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20602c36a2be44b47b813be69d2bc480
+      internalID: 1204501058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2099
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0c005db5f1f5842908d24a65979aef
+      internalID: -1399455147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_30
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2099
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e9097f4e7f1c74c8cfa06650a91fe7
+      internalID: 1475524437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2099
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763b563677fbace4a919374b323ed49f
+      internalID: 1604726829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_32
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2099
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b380208573577fb45861f7dd69ce6d46
+      internalID: -602101665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2099
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9ee6ffc118c4f42b190ae3b55c0c9f
+      internalID: -1407422925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2099
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7ed2a8aeb31e24db2b47598431d216
+      internalID: 1361343285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_35
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2099
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01113813cfa18e5438f230c0ea667b8d
+      internalID: 754824861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2050
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06dce5c33ea7194a9478d5ad0113eac
+      internalID: 639573558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2050
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b0613dbc296d1428b1086af7475cc0
+      internalID: -562477112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2050
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a2603a5b6b99247b44fb1300278790
+      internalID: -1457948371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2050
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c8c34da9e83714ba658fb8fe153ae2
+      internalID: 1972618574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2050
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4195781f256a43749b38f49179382b16
+      internalID: 80335276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2050
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d551d9691051aa43a6841d22133c455
+      internalID: 1383258060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_42
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2050
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0668c79ea5731fa4398c449bfdf117d7
+      internalID: 805297714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2050
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfee5943c9dd6a846962e25fc1d37169
+      internalID: -807177033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_44
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2050
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049a815befd9f0a4bb1eef1c9b8fda87
+      internalID: -1439079872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_45
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2050
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2e22fae2a3b1c46b847906e76b2c5e
+      internalID: -664477465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_46
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2050
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4380d14c477ec24e835cc970e903e71
+      internalID: 523734060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_47
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2050
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ac089750ef52c47a9203459d2580ba
+      internalID: -886930195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_48
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2050
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7d1ab2dc4101b4caa59d8d5e608599
+      internalID: -1227762100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_49
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2050
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e028dc01df37a3a499b180ef79a52cf5
+      internalID: -829026231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_50
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2050
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ecb92c509c67d4d9d42c7e045ff9e8
+      internalID: 1504311932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Berdly_51
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2050
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c8aec3d16bfd048b4d149245b1e1aa
+      internalID: 980362812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Deltarune - Berdly_5: 2052905418
+      PC Computer - Deltarune - Berdly_50: 1504311932
+      PC Computer - Deltarune - Berdly_35: 754824861
+      PC Computer - Deltarune - Berdly_51: 980362812
+      PC Computer - Deltarune - Berdly_27: -2130615130
+      PC Computer - Deltarune - Berdly_2: -1450339922
+      PC Computer - Deltarune - Berdly_7: 1379855230
+      PC Computer - Deltarune - Berdly_17: 1479631406
+      PC Computer - Deltarune - Berdly_45: -664477465
+      PC Computer - Deltarune - Berdly_33: -1407422925
+      PC Computer - Deltarune - Berdly_0: -139863452
+      PC Computer - Deltarune - Berdly_47: -886930195
+      PC Computer - Deltarune - Berdly_32: -602101665
+      PC Computer - Deltarune - Berdly_22: -498933909
+      PC Computer - Deltarune - Berdly_42: 805297714
+      PC Computer - Deltarune - Berdly_15: 437213314
+      PC Computer - Deltarune - Berdly_28: 1204501058
+      PC Computer - Deltarune - Berdly_39: 1972618574
+      PC Computer - Deltarune - Berdly_48: -1227762100
+      PC Computer - Deltarune - Berdly_12: 747076363
+      PC Computer - Deltarune - Berdly_38: -1457948371
+      PC Computer - Deltarune - Berdly_37: -562477112
+      PC Computer - Deltarune - Berdly_46: 523734060
+      PC Computer - Deltarune - Berdly_10: -1596971019
+      PC Computer - Deltarune - Berdly_30: 1475524437
+      PC Computer - Deltarune - Berdly_31: 1604726829
+      PC Computer - Deltarune - Berdly_26: 2082894286
+      PC Computer - Deltarune - Berdly_13: -1317027180
+      PC Computer - Deltarune - Berdly_11: -948998661
+      PC Computer - Deltarune - Berdly_14: 1707673313
+      PC Computer - Deltarune - Berdly_43: -807177033
+      PC Computer - Deltarune - Berdly_41: 1383258060
+      PC Computer - Deltarune - Berdly_49: -829026231
+      PC Computer - Deltarune - Berdly_9: -1792272876
+      PC Computer - Deltarune - Berdly_1: -1653859732
+      PC Computer - Deltarune - Berdly_19: 1915298776
+      PC Computer - Deltarune - Berdly_40: 80335276
+      PC Computer - Deltarune - Berdly_36: 639573558
+      PC Computer - Deltarune - Berdly_44: -1439079872
+      PC Computer - Deltarune - Berdly_34: 1361343285
+      PC Computer - Deltarune - Berdly_6: 1608626977
+      PC Computer - Deltarune - Berdly_3: 1923309529
+      PC Computer - Deltarune - Berdly_20: 37422863
+      PC Computer - Deltarune - Berdly_23: 1531676936
+      PC Computer - Deltarune - Berdly_25: -1668705851
+      PC Computer - Deltarune - Berdly_4: -1735071984
+      PC Computer - Deltarune - Berdly_24: 2089687613
+      PC Computer - Deltarune - Berdly_8: 1623713858
+      PC Computer - Deltarune - Berdly_16: -1411388486
+      PC Computer - Deltarune - Berdly_21: 1014869545
+      PC Computer - Deltarune - Berdly_18: 720586009
+      PC Computer - Deltarune - Berdly_29: -1399455147
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

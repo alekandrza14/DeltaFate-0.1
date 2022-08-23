@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - t
+  - image
+  - Target
+  - image2
+  - image3
+  - terrain
+  - Shape4D
+  - yt
+  - Target2
+  - save
+  - s
+  - 1
+  - 2
+  - t2
+  - 3
+  - ss
+  - n
+  - hole
+  - soul
+  - t3
+  - tx
+  - bmp
+  - se
+  - error
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - soul
+  - Water
+  - UI
+  - 
+  - 
+  - nps
+  - enemy
+  - ligtingenemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: backgraung
+    uniqueID: 886843099
+    locked: 0
+  - name: graund
+    uniqueID: 3141492319
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

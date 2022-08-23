@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad66addc63c09542ba4ff1823a2620b, type: 3}
+  m_Name: data
+  m_EditorClassIdentifier: 
+  speedphase1: 0
+  endphase1: 5000
+  gameobjphase1: {fileID: 4331586765459925451, guid: 980272a762b79de4a9ccd79deff7c21c,
+    type: 3}
+  speedphase2: 2
+  endphase2: 300
+  gameobjphase2: {fileID: 4331586765459925451, guid: 980272a762b79de4a9ccd79deff7c21c,
+    type: 3}
+  speedphase3: 20
+  endphase3: 4000
+  gameobjphase3: {fileID: 987383572033083281, guid: b816e5294b937c74aada6943f2bfec77,
+    type: 3}

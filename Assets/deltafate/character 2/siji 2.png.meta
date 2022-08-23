@@ -1,0 +1,758 @@
+fileFormatVersion: 2
+guid: 87b1b10e88efa344cbbaade215b65418
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7389064663833369546
+    second: 2
+  - first:
+      213: 881882465952517036
+    second: 5
+  - first:
+      213: 2640042351455661926
+    second: siji 2_2
+  - first:
+      213: 7126643276504584116
+    second: siji 2_3
+  - first:
+      213: 219095572944241000
+    second: siji 2_4
+  - first:
+      213: -1133557292674832143
+    second: siji 2_5
+  - first:
+      213: 5393864791534401548
+    second: siji 2_6
+  - first:
+      213: 4115211994035694157
+    second: siji 2_7
+  - first:
+      213: -2633597328983787580
+    second: 3
+  - first:
+      213: -6501790366238666156
+    second: siji 2_9
+  - first:
+      213: 1328580919095414986
+    second: siji 2_10
+  - first:
+      213: -1819321816263600952
+    second: siji 2_11
+  - first:
+      213: 354662419773773722
+    second: 2
+  - first:
+      213: -3024635702559140472
+    second: 5
+  - first:
+      213: -579981505786697536
+    second: siji 2_2
+  - first:
+      213: 4864585278396739082
+    second: siji 2_3
+  - first:
+      213: -2544130472825873129
+    second: siji 2_4
+  - first:
+      213: -173330606364665032
+    second: siji 2_5
+  - first:
+      213: 1299254648855197599
+    second: siji 2_6
+  - first:
+      213: 9083990993252239435
+    second: siji 2_7
+  - first:
+      213: 2160478052936094564
+    second: 3
+  - first:
+      213: -8967677082623703697
+    second: siji 2_9
+  - first:
+      213: 1827233727603501064
+    second: siji 2_10
+  - first:
+      213: -7942072936216154288
+    second: siji 2_11
+  - first:
+      213: -2993171461129628594
+    second: siji 2_12
+  - first:
+      213: -5562910908964260953
+    second: siji 2_13
+  - first:
+      213: 4112827367534286914
+    second: siji 2_14
+  - first:
+      213: -1620558205668336680
+    second: siji 2_15
+  - first:
+      213: 686617951322486822
+    second: siji 2_16
+  - first:
+      213: -2308533934753909744
+    second: siji 2_17
+  - first:
+      213: -4686993287315095796
+    second: siji 2_18
+  - first:
+      213: -4624375050143402506
+    second: siji 2_19
+  - first:
+      213: 5131886775690063972
+    second: siji 2_20
+  - first:
+      213: 1904962069105152187
+    second: 1
+  - first:
+      213: 2987010768517551576
+    second: 4
+  - first:
+      213: -2399476053522160252
+    second: 6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.4969788, y: 0.012750417}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 18
+        height: 67
+      alignment: 9
+      pivot: {x: 0.21373622, y: 0.024576671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8859ffd8ad55606d0800000000000000
+      internalID: 881882465952517036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 71
+        width: 18
+        height: 67
+      alignment: 9
+      pivot: {x: 0.18771236, y: 0.022246176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8a943b4ed73f7f0800000000000000
+      internalID: 2640042351455661926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 71
+        width: 18
+        height: 67
+      alignment: 9
+      pivot: {x: 0.24843512, y: 0.017585184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eae6a798a728340800000000000000
+      internalID: 7126643276504584116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 71
+        width: 18
+        height: 67
+      alignment: 9
+      pivot: {x: 0.7775887, y: 0.01991568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b5eea5bb4389df0800000000000000
+      internalID: -1133557292674832143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 71
+        width: 18
+        height: 67
+      alignment: 9
+      pivot: {x: 0.7168672, y: 0.022246176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97f9c92831e70210800000000000000
+      internalID: 5393864791534401548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 71
+        width: 18
+        height: 67
+      alignment: 9
+      pivot: {x: 0.7342156, y: 0.024576671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48c5a7eda1d01e70800000000000000
+      internalID: 4115211994035694157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2
+        width: 18
+        height: 67
+      alignment: 9
+      pivot: {x: 0.26578394, y: 0.015254626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463984aa75f8bfd10800000000000000
+      internalID: -2633597328983787580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2
+        width: 18
+        height: 67
+      alignment: 9
+      pivot: {x: 0.26578438, y: 0.026907155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f658dc5c4396c8380800000000000000
+      internalID: -6501790366238666156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2
+        width: 18
+        height: 67
+      alignment: 9
+      pivot: {x: 0.274459, y: 0.036229182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8086b67e463ab5910800000000000000
+      internalID: 1328580919095414986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2
+        width: 18
+        height: 67
+      alignment: 9
+      pivot: {x: 0.7602395, y: 0.017585132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4418832a6e1676d0800000000000000
+      internalID: -2993171461129628594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 18
+        height: 67
+      alignment: 9
+      pivot: {x: 0.7602403, y: 0.02457665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a33a0a70029cc2b0800000000000000
+      internalID: -5562910908964260953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_14
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2
+        width: 18
+        height: 67
+      alignment: 9
+      pivot: {x: 0.7602395, y: 0.02457665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248d26833b2b31930800000000000000
+      internalID: 4112827367534286914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 26
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5720665, y: 0.027042333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97dbc977930ce400800000000000000
+      internalID: -7389064663833369546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 69
+        width: 26
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5780719, y: 0.02930528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db5b45e5ee9289e0800000000000000
+      internalID: -1620558205668336680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 69
+        width: 26
+        height: 69
+      alignment: 9
+      pivot: {x: 0.43994462, y: 0.024779279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628bbfc836b578900800000000000000
+      internalID: 686617951322486822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 69
+        width: 26
+        height: 69
+      alignment: 9
+      pivot: {x: 0.43393913, y: 0.027042333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014fe031e9076ffd0800000000000000
+      internalID: -2308533934753909744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 26
+        height: 69
+      alignment: 9
+      pivot: {x: 0.43994462, y: 0.027042374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f71fc107474feb0800000000000000
+      internalID: -4686993287315095796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 26
+        height: 69
+      alignment: 9
+      pivot: {x: 0.45195565, y: 0.022516463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5f504946be2dfb0800000000000000
+      internalID: -4624375050143402506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 26
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5780719, y: 0.027042374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460f78425df183740800000000000000
+      internalID: 5131886775690063972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 69
+      alignment: 9
+      pivot: {x: 0.56606096, y: 0.02930533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb01b9fa8e8cf6a10800000000000000
+      internalID: 1904962069105152187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 71
+        width: 18
+        height: 67
+      alignment: 9
+      pivot: {x: 0.28313276, y: 0.022246176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d97f870de61bcd0800000000000000
+      internalID: 219095572944241000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 71
+        width: 18
+        height: 67
+      alignment: 9
+      pivot: {x: 0.7168664, y: 0.026907166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d551c5d77ef37920800000000000000
+      internalID: 2987010768517551576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siji 2_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2
+        width: 18
+        height: 67
+      alignment: 9
+      pivot: {x: 0.26578352, y: 0.022246143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fa7905eb618c190800000000000000
+      internalID: -1819321816263600952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2
+        width: 18
+        height: 67
+      alignment: 9
+      pivot: {x: 0.76891494, y: 0.02457665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48561c60e3953bed0800000000000000
+      internalID: -2399476053522160252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      siji 2_4: 219095572944241000
+      siji 2_10: 1328580919095414986
+      3: -2633597328983787580
+      siji 2_14: 4112827367534286914
+      siji 2_19: -4624375050143402506
+      siji 2_17: -2308533934753909744
+      siji 2_2: 2640042351455661926
+      siji 2_16: 686617951322486822
+      2: -7389064663833369546
+      6: -2399476053522160252
+      siji 2_6: 5393864791534401548
+      5: 881882465952517036
+      4: 2987010768517551576
+      siji 2_7: 4115211994035694157
+      siji 2_9: -6501790366238666156
+      siji 2_15: -1620558205668336680
+      siji 2_18: -4686993287315095796
+      siji 2_5: -1133557292674832143
+      siji 2_11: -1819321816263600952
+      1: 1904962069105152187
+      siji 2_13: -5562910908964260953
+      siji 2_3: 7126643276504584116
+      siji 2_12: -2993171461129628594
+      siji 2_20: 5131886775690063972
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
