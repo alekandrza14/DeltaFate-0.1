@@ -9,9 +9,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3752716263634107588}
+  - component: {fileID: 1109264786}
   m_Layer: 0
   m_Name: player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33,6 +34,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1109264786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3752716263634107589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 108a0ca5e7311804ea7a2fb81576f57c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _camera: {fileID: 3752716264986569849}
+  character: {fileID: 3752716264326718918}
+  othercharacters:
+  - {fileID: 0}
 --- !u!1 &3752716263802013391
 GameObject:
   m_ObjectHideFlags: 0
@@ -156,6 +173,13 @@ MonoBehaviour:
   hp: 20
   xp: 0
   level: 0
+  namecharacter: 
+  isMain: 0
+  character: {fileID: 0}
+  traget: {x: 0, y: 0, z: 0}
+  chardist: 5
+  adirectoin: {x: 0, y: 0, z: 0}
+  offset: 0
 --- !u!114 &1499192622
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -196,7 +220,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3752716264326718916}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.3217952, y: -1.4280593, z: 0.036794275}
+  m_LocalPosition: {x: 0, y: 0, z: 0.036794275}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -219,6 +243,13 @@ MonoBehaviour:
   hp: 100
   xp: 0
   level: 0
+  namecharacter: Henry
+  isMain: 0
+  character: {fileID: 0}
+  traget: {x: 0, y: 0, z: 0}
+  chardist: 5
+  adirectoin: {x: 0, y: 0, z: 0}
+  offset: 0
   speed: 2
   anim: {fileID: 1499192623}
 --- !u!50 &3752716264326718912
@@ -241,7 +272,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!58 &3752716264326718913
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -285,7 +316,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3752716264986569853}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.0187953, y: -0.6660594, z: -13.063206}
+  m_LocalPosition: {x: -0.92, y: 0, z: -13.063206}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -323,7 +354,7 @@ Camera:
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 1847
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -358,3 +389,5 @@ MonoBehaviour:
   character: {fileID: 3752716264326718919}
   camdist: 10.04
   offset: 10
+  pos: {x: 0, y: 0, z: 0}
+  posledovatel: {fileID: 0}

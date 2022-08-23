@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
 public class Henry : ActiveBehaiver
 {
     public float speed;
@@ -26,14 +27,24 @@ public class Henry : ActiveBehaiver
     // Update is called once per frame
     void Update()
     {
+        Updateb();
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             SceneManager.LoadScene("menu");
         }
-        direction.x = Input.GetAxisRaw("Horizontal");
-        direction.y = Input.GetAxisRaw("Vertical");
+        
+        if (isMain)
+        {
+            direction.x = Input.GetAxisRaw("Horizontal");
+            direction.y = Input.GetAxisRaw("Vertical");
+        }
         anim.SetFloat("vert", direction.y *1.5f);
         anim.SetFloat("hor", direction.x * 1.5f);
+        if (adirectoin.x != 0 && adirectoin.y != 0)
+        {
+            anim.SetFloat("vert", -adirectoin.y * 1.5f);
+            anim.SetFloat("hor", -adirectoin.x * 1.5f);
+        }
     }
     private void FixedUpdate()
     {
