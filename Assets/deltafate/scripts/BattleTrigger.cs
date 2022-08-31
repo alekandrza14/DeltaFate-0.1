@@ -7,6 +7,8 @@ public class enemy
     public string enemyanim;
     public long hp; public long mp;
     public long tp;
+    public act[] acts;
+    public bool init;
     public enemy clone()
    {
        enemy en = new enemy();
@@ -14,6 +16,7 @@ public class enemy
         en.hp = this.hp;
         en.mp = this.mp;
         en.tp = this.tp;
+        en.acts = this.acts;
         return en;
     }
 }

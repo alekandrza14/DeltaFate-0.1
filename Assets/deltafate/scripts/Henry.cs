@@ -9,6 +9,7 @@ public class Henry : ActiveBehaiver
     public float speed;
     public Animator anim;
     Vector2 direction;
+    float us;
     Rigidbody2D rb;
     void Start()
     {
@@ -33,6 +34,15 @@ public class Henry : ActiveBehaiver
         {
             SceneManager.LoadScene("menu");
         }
+        switch (DuoInput.ÑancellationS())
+        {
+            case true:
+                us = 1.25f;
+                break;
+            case false:
+                us = 1f;
+                break;
+        }
         
         if (isMain)
         {
@@ -53,7 +63,7 @@ public class Henry : ActiveBehaiver
         {
 
 
-            rb.MovePosition(rb.position + direction * speed * Time.fixedDeltaTime);
+            rb.MovePosition(rb.position + direction * speed * Time.fixedDeltaTime *us);
         }
         else
         {

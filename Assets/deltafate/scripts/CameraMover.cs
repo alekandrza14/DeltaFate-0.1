@@ -18,14 +18,14 @@ public class CameraMover : MonoBehaviour
     }
     void Update()
     {
-        if (oldpos.x != 0 && oldpos.y != 0)
+        if (oldpos.x == 0 && oldpos.y == 0)
         {
             oldpos = character.transform.position;
         }
         newpos = character.transform.position;
 
         Vector3 v = oldpos - newpos;
-        v *= 1.5f;
+        v *= Time.fixedDeltaTime * 200;
         float dist = Vector3.Distance(transform.position, character.position);
         if (dist > camdist)
         {

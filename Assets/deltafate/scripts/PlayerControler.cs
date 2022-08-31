@@ -10,7 +10,7 @@ public class PlayerControler : MonoBehaviour
     public ActiveBehaiver[] othercharacters;
     List<ActiveBehaiver> othercharacterslist = new List<ActiveBehaiver>();
     public batlle b;
-    void Start()
+    void Awake()
     {
         SaveDataClass.load(this);
         character.isMain = true;

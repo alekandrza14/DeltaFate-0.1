@@ -78,14 +78,14 @@ public class Main_main_menu : MonoBehaviour
             tic += 1; if (tic > 1)
             {
                 
-                if (Input.GetKeyDown(KeyCode.D))
+                if (DuoInput.right())
                 {
                     if (cur > -1 && cur < txt.Length - 1)
                     {
                         cur++;
                     }
                 }
-                if (Input.GetKeyDown(KeyCode.A))
+                if (DuoInput.left())
                 {
                     if (cur > 0 && cur < txt.Length)
                     {
@@ -103,76 +103,10 @@ public class Main_main_menu : MonoBehaviour
                         txt[i].color = cl[1];
                     }
                 }
-                if (Input.GetKeyDown(KeyCode.S))
-                {
-                    if (cur2 > -1 && cur2 < txt2.Length - 1)
-                    {
-                        cur2++;
-                    }
-                }
-                if (Input.GetKeyDown(KeyCode.W))
-                {
-                    if (cur2 > 0 && cur2 < txt2.Length)
-                    {
-                        cur2--;
-                    }
-                }
-                if (Input.GetKeyDown(KeyCode.Z) && a2)
-                {
-                    if (cur4 > 0 && cur4 < 2)
-                    {
-                        cur4--;
-                    }
-                }
-                if (Input.GetKeyDown(KeyCode.X) && a2)
-                {
-                    if (cur4 > -1 && cur4 < 1)
-                    {
-                        cur4++;
-                    }
-                }
-                for (int i = 0; i < txt2.Length; i++)
-                {
-                    if (i != cur2)
-                    {
-                        txt2[i].color = cl[0];
-                    }
-                    if (cur2 == 1 && cur4 != 1 && i == 5)
-                    {
-                        txt2[i].color = cl[0];
-                    }
-                    if (cur2 == 1 && cur4 != 0 && i == 1)
-                    {
-                        txt2[i].color = cl[0];
-                    }
-                    if (i == 0 && i == cur2)
-                    {
-                        txt2[i].color = cl1;
-                    }
-                    if (i == 1 && i == cur2 && cur4 != 1)
-                    {
-                        txt2[i].color = cl2;
-                    }
-                    if (i == 2 && i == cur2)
-                    {
-                        txt2[i].color = cl3;
-                    }
-                    if (i == 3 && i == cur2)
-                    {
-                        txt2[i].color = cl4;
-                    }
-                    if (i == 4 && i == cur2)
-                    {
-                        txt2[i].color = cl5;
-                    }
-                    if (cur2 == 1 && cur4 == 1 && i==5)
-                    {
-                        txt2[i].color = cl22;
-                    }
-                }
+                
                 if (cur == 0)
                 {
-                    if (Input.GetKeyDown(KeyCode.E))
+                    if (DuoInput.Enter())
                     {
                         play();
                     }
@@ -180,7 +114,7 @@ public class Main_main_menu : MonoBehaviour
 
                 if (cur == 1)
                 {
-                    if (Input.GetKeyDown(KeyCode.E))
+                    if (DuoInput.Enter())
                     {
                         Application.Quit();
                     }
