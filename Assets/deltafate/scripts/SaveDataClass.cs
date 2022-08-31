@@ -9,6 +9,11 @@ using UnityEngine.SceneManagement;
 
 namespace System.Save
 {
+    public class isata
+    {
+        public static bool Data;
+        public static bool onbatlle;
+    }
     public class SaveDataClass
     {
         public Vector3 charpos;
@@ -28,27 +33,32 @@ namespace System.Save
         }
         public static void save(PlayerControler player)
         {
-            slot = new SaveDataClass();
-            slot.campos = player._camera.transform.position;
-            slot.charpos = player.character.transform.position;
-            slot.hp = player.character.hp;
-            slot.xp = player.character.xp;
-            slot.level = player.character.level;
-            slot.ohp = new long[player.othercharacters.Length];
-            slot.oxp = new long[player.othercharacters.Length];
-            slot.olevel = new long[player.othercharacters.Length];
-            slot.othercharpos = new Vector3[player.othercharacters.Length];
-            slot.othercharname = new string[player.othercharacters.Length];
-            for (int i =0;i<player.othercharacters.Length;i++)
+            if (!isata.Data)
             {
-                slot.ohp[i] = player.othercharacters[i].hp;
-                slot.oxp[i] = player.othercharacters[i].xp;
-                slot.olevel[i] = player.othercharacters[i].level;
-                slot.othercharpos[i] = player.othercharacters[i].transform.position;
-                slot.othercharname[i] = player.othercharacters[i].namecharacter;
+
+
+                slot = new SaveDataClass();
+                slot.campos = player._camera.transform.position;
+                slot.charpos = player.character.transform.position;
+                slot.hp = player.character.hp;
+                slot.xp = player.character.xp;
+                slot.level = player.character.level;
+                slot.ohp = new long[player.othercharacters.Length];
+                slot.oxp = new long[player.othercharacters.Length];
+                slot.olevel = new long[player.othercharacters.Length];
+                slot.othercharpos = new Vector3[player.othercharacters.Length];
+                slot.othercharname = new string[player.othercharacters.Length];
+                for (int i = 0; i < player.othercharacters.Length; i++)
+                {
+                    slot.ohp[i] = player.othercharacters[i].hp;
+                    slot.oxp[i] = player.othercharacters[i].xp;
+                    slot.olevel[i] = player.othercharacters[i].level;
+                    slot.othercharpos[i] = player.othercharacters[i].transform.position;
+                    slot.othercharname[i] = player.othercharacters[i].namecharacter;
+                }
+                Directory.CreateDirectory(Path(player));
+                File.WriteAllText(Path(player) + "/PlayerPosition.json", JsonUtility.ToJson(slot));
             }
-            Directory.CreateDirectory(Path(player));
-            File.WriteAllText(Path(player) + "/PlayerPosition.json", JsonUtility.ToJson(slot));
         }
         public static void load(PlayerControler player)
         {
@@ -76,6 +86,7 @@ namespace System.Save
         {
            if( File.Exists(Path(player) + "/PlayerPosition.json"))
            {
+                isata.Data = true;
                 File.Delete(Path(player) + "/PlayerPosition.json");
                 SceneManager.LoadScene(SceneManager.GetActiveScene().name);
            }

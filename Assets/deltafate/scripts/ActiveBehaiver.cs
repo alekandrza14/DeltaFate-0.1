@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class ActiveBehaiver : MonoBehaviour
 {
-    public long hp = 100;
+    public long hp = 100; 
+    public long mhp = 100;
     public long xp;
     public long level;
     public string namecharacter;

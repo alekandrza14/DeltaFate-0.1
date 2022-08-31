@@ -12,6 +12,7 @@ public class Henry : ActiveBehaiver
     Rigidbody2D rb;
     void Start()
     {
+        System.Save.isata.Data = false;
         rb = GetComponent<Rigidbody2D>();
         for (int i=0;i<FindObjectsOfType<SpriteRenderer>().Length;i++)
         {
@@ -48,6 +49,15 @@ public class Henry : ActiveBehaiver
     }
     private void FixedUpdate()
     {
-        rb.MovePosition(rb.position+direction*speed*Time.fixedDeltaTime);
+        if (!System.Save.isata.onbatlle)
+        {
+
+
+            rb.MovePosition(rb.position + direction * speed * Time.fixedDeltaTime);
+        }
+        else
+        {
+            rb.MovePosition(rb.position + direction * speed * Time.fixedDeltaTime /3);
+        }
     }
 }

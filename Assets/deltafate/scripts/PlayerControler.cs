@@ -9,6 +9,7 @@ public class PlayerControler : MonoBehaviour
     public ActiveBehaiver character;
     public ActiveBehaiver[] othercharacters;
     List<ActiveBehaiver> othercharacterslist = new List<ActiveBehaiver>();
+    public batlle b;
     void Start()
     {
         SaveDataClass.load(this);

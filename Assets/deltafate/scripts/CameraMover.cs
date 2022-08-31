@@ -8,14 +8,30 @@ public class CameraMover : MonoBehaviour
     public float camdist;
     public float offset;
     public Vector3 pos;
+    public Vector3 oldpos;
+    public Vector3 newpos;
     public ActiveBehaiver posledovatel;
+    void Start()
+    {
+        oldpos = character.transform.position;
+        newpos = character.transform.position;
+    }
     void Update()
     {
+        if (oldpos.x != 0 && oldpos.y != 0)
+        {
+            oldpos = character.transform.position;
+        }
+        newpos = character.transform.position;
+
+        Vector3 v = oldpos - newpos;
+        v *= 1.5f;
         float dist = Vector3.Distance(transform.position, character.position);
         if (dist > camdist)
         {
             Vector3 t = transform.position - character.position;
             t /= 300 / dist;
+            transform.position -= v;
             transform.position -= t;
             transform.position = new Vector3(transform.position.x, transform.position.y, -offset);
 
@@ -25,6 +41,7 @@ public class CameraMover : MonoBehaviour
             Vector3 t = transform.position - character.position;
             t /= 1000 / dist;
             transform.position -= t;
+            transform.position -= v;
             transform.position = new Vector3(transform.position.x, transform.position.y, -offset);
 
         }
@@ -57,6 +74,12 @@ public class CameraMover : MonoBehaviour
             {
                 pos = new Vector3(0, 0, 0);
             }
+        }
+        if (true)
+        {
+
+
+            oldpos = newpos;
         }
     }
 }

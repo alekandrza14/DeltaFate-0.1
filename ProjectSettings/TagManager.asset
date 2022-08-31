@@ -71,3 +71,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: fightbg
+    uniqueID: 4029505823
+    locked: 0
+  - name: fight
+    uniqueID: 2348302233
+    locked: 0
+  - name: fightui
+    uniqueID: 3902318847
+    locked: 0
