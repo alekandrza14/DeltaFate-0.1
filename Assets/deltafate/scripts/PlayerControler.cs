@@ -33,6 +33,8 @@ public class PlayerControler : MonoBehaviour
         othercharacterslist[othercharacterslist.Count - 1].level = level;
         othercharacterslist[othercharacterslist.Count - 1].transform.position = pos;
         othercharacterslist[othercharacterslist.Count - 1].character = _camera.character;
+        b.cic.add(othercharacterslist[othercharacterslist.Count - 1],character);
+        othercharacterslist[othercharacterslist.Count - 1].cic = b.cic;
         up();
     }
     public void set()

@@ -43,6 +43,7 @@ public class batlle : MonoBehaviour
     public bool ops;
     public SpriteRenderer player;
     public SpriteRenderer fight;
+    public command_input_controller cic;
 
     private void Start()
     {
@@ -221,7 +222,7 @@ public class batlle : MonoBehaviour
         {
             tic = 0;
         }
-        if (!acting)
+        if (!acting && !cic.gameObject.activeSelf)
         {
 
 
@@ -275,6 +276,20 @@ public class batlle : MonoBehaviour
 
                     }
                 }
+                if (ba[i].typeaction == "Help-comand" && DuoInput.Enter() && i == cur && !attack)
+                {
+                    anim.Play("hey"); if (en != null)
+                    {
+                        /*
+                        for (int i2 =0;i2 < cic.command_Slots.Count;i++)
+                        {
+
+                        }
+                        */
+                        cic.gameObject.SetActive(!cic.gameObject.activeSelf);
+
+                    }
+                }
 
 
             }
@@ -299,8 +314,7 @@ public class batlle : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.F3))
         {
 
-            playert = true;
-            c.enabled = !c.enabled;
+            cic.gameObject.SetActive(!cic.gameObject.activeSelf);
             
         }
     }

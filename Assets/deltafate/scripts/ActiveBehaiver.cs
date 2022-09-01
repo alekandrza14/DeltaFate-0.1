@@ -8,6 +8,7 @@ public class ActiveBehaiver : MonoBehaviour
     public long mhp = 100;
     public long xp;
     public long level;
+    public command_input_controller cic;
     public string namecharacter;
    [HideInInspector] public bool isMain;
     [HideInInspector] public Transform character;
@@ -26,6 +27,7 @@ public class ActiveBehaiver : MonoBehaviour
             }
             else
             {
+                cic.leave(this);
                 Destroy(gameObject);
             }
             
