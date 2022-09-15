@@ -8,8 +8,12 @@ public class Henry : ActiveBehaiver
 {
     public float speed;
     public Animator anim;
+    public float size;
     Vector2 direction;
     float us;
+    bool isgraund;
+    public float jump = 6;
+    float tjump =0, gr = 1f;
     Rigidbody2D rb;
     void Start()
     {
@@ -46,15 +50,60 @@ public class Henry : ActiveBehaiver
         
         if (isMain)
         {
-            direction.x = Input.GetAxisRaw("Horizontal");
-            direction.y = Input.GetAxisRaw("Vertical");
+            if (locationtype.GetLocation() == location.top_down)
+            {
+                rb.gravityScale = 0;
+
+                direction.x = Input.GetAxisRaw("Horizontal");
+                direction.y = Input.GetAxisRaw("Vertical");
+            }
+            if (locationtype.GetLocation() == location.platformer)
+            {
+
+                rb.gravityScale = -0;
+                tjump -= Time.deltaTime * gr;
+                if (Input.GetAxis("Vertical") > 0 && isgraund)
+                {
+                    tjump = jump;
+                    isgraund = false;
+                }
+                physics();
+                direction.y = tjump;
+               direction.x = Input.GetAxisRaw("Horizontal");
+            }
         }
-        anim.SetFloat("vert", direction.y *1.5f);
-        anim.SetFloat("hor", direction.x * 1.5f);
+        if (locationtype.GetLocation() == location.top_down)
+        {
+            
+            anim.SetFloat("vert", direction.y * 1.5f);
+        }
+        else if(locationtype.GetLocation() == location.platformer)
+        {
+            if (!isMain)
+            {
+                rb.gravityScale = 10;
+            }
+                anim.SetFloat("jump", direction.y * 1.5f);
+        }
+            anim.SetFloat("hor", direction.x * 1.5f);
         if (adirectoin.x != 0 && adirectoin.y != 0)
         {
             anim.SetFloat("vert", -adirectoin.y * 1.5f);
             anim.SetFloat("hor", -adirectoin.x * 1.5f);
+        }
+    }
+    private void physics()
+    {
+        
+        if (Physics2D.Raycast(transform.position, Vector2.down,size))
+        {
+            if (tjump <= 0)
+            {
+
+
+                tjump = 0;
+            }
+                isgraund = true;
         }
     }
     private void FixedUpdate()

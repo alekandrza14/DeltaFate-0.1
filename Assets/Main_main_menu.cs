@@ -148,18 +148,10 @@ public class Main_main_menu : MonoBehaviour
     {
         
 
-        /*
-            PlayerPrefs.DeleteAll();
-            Directory.Delete("DELTAFATE", true);
+    
+            Directory.Delete("save", true);
             
-            s.idscene[0] = 1;
-            Directory.CreateDirectory(@"DELTAFATE");
-
-            Directory.CreateDirectory(@"DELTAFATE/henry");
-
-
-            File.WriteAllText(@"DELTAFATE/henry/bposition.un", JsonUtility.ToJson(s));
-        */
+           
         
     }
     public void exit()
@@ -235,12 +227,19 @@ public class Main_main_menu : MonoBehaviour
     public void play()
     {
 
-        
-                SceneManager.LoadScene("level-1");
-        
-        
-    }  
-    void Start()
+        if (!File.Exists("save/data"))
+        {
+
+
+            SceneManager.LoadScene("level-1");
+        }else if (File.Exists("save/data"))
+        {
+            SceneManager.LoadScene(File.ReadAllText("save/data"));
+        }
+
+
+    }
+        void Start()
     {
        // Cursor.SetCursor(records2.spritest3("Hero soul/курсор1", 0),-Vector2.one,new CursorMode());
         

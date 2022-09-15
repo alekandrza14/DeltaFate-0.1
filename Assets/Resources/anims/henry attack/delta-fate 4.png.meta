@@ -403,6 +403,174 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: delta-fate 4_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 455
+        width: 21
+        height: 52
+      alignment: 9
+      pivot: {x: 0.53088343, y: 0.055994473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76a588f6061d3841856ee9b547a9a2b
+      internalID: 648670626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delta-fate 4_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 455
+        width: 14
+        height: 53
+      alignment: 9
+      pivot: {x: 0.43514606, y: -0.09470526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86c5f590f9dee445b27c8936eb80622
+      internalID: 1511140712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delta-fate 4_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 456
+        width: 18
+        height: 55
+      alignment: 9
+      pivot: {x: 0.34867308, y: -0.06128762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2df957416f557458b4f1aadef3df68
+      internalID: -1043540211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delta-fate 4_8
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 460
+        width: 19
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5750945, y: 0.06677063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b512d1dff322994ea598d1dab12562b
+      internalID: 1835966185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delta-fate 4_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 390
+        width: 21
+        height: 52
+      alignment: 9
+      pivot: {x: 0.45676312, y: 0.036039498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34199b11aba44544fbb24c433ded0850
+      internalID: -1516435939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delta-fate 4_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 390
+        width: 14
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5370598, y: -0.07757338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee252f9d17741ec44a430b95ab93bbda
+      internalID: -1944806743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delta-fate 4_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 391
+        width: 18
+        height: 55
+      alignment: 9
+      pivot: {x: 1.011631, y: -0.04949618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b597e96ce74c0c43b48d18e9930c7a6
+      internalID: -1749649915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delta-fate 4_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 395
+        width: 19
+        height: 51
+      alignment: 9
+      pivot: {x: 0.24058257, y: 0.03457223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bf7bd1e8a771c41bd7cb6c058ce1d7
+      internalID: 133254377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -414,11 +582,19 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      delta-fate 4_6: 1511140712
+      delta-fate 4_12: 133254377
+      delta-fate 4_8: 1835966185
       delta-fate 4_0: -402276296
+      delta-fate 4_11: -1749649915
       delta-fate 4_1: -887103857
       delta-fate 4_3: -1249390907
+      delta-fate 4_10: -1944806743
       delta-fate 4_2: 538536896
+      delta-fate 4_7: -1043540211
+      delta-fate 4_9: -1516435939
       delta-fate 4_4: -844120404
+      delta-fate 4_5: 648670626
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

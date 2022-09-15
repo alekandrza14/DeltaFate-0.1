@@ -1280,7 +1280,7 @@ GameObject:
   - component: {fileID: 1499192623}
   - component: {fileID: 1499192621}
   - component: {fileID: 1499192622}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1424,7 +1424,7 @@ GameObject:
   - component: {fileID: 3752716264326718918}
   - component: {fileID: 3752716264326718912}
   - component: {fileID: 3752716264326718913}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: character
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -1473,6 +1473,8 @@ MonoBehaviour:
   offset: 0
   speed: 2
   anim: {fileID: 1499192623}
+  size: 0.15
+  jump: 1.5
 --- !u!50 &3752716264326718912
 Rigidbody2D:
   serializedVersion: 4

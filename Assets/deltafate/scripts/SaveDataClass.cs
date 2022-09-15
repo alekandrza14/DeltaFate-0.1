@@ -57,6 +57,7 @@ namespace System.Save
                     slot.othercharname[i] = player.othercharacters[i].namecharacter;
                 }
                 Directory.CreateDirectory(Path(player));
+                File.WriteAllText("save/data", SceneManager.GetActiveScene().name);
                 File.WriteAllText(Path(player) + "/PlayerPosition.json", JsonUtility.ToJson(slot));
             }
         }

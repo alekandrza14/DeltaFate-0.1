@@ -121,8 +121,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 20
+  mhp: 100
   xp: 0
   level: 0
+  cic: {fileID: 0}
   namecharacter: 
   isMain: 0
   character: {fileID: 0}
@@ -192,8 +194,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 100
+  mhp: 100
   xp: 0
   level: 0
+  cic: {fileID: 0}
   namecharacter: character-2
   isMain: 0
   character: {fileID: 0}
@@ -203,6 +207,8 @@ MonoBehaviour:
   offset: 0
   speed: 2
   anim: {fileID: 500648368052855642}
+  size: 0.15
+  jump: 1.5
 --- !u!50 &6466176080111126420
 Rigidbody2D:
   serializedVersion: 4
