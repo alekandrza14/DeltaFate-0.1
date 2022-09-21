@@ -66,15 +66,14 @@ public class Main_main_menu : MonoBehaviour
         Debug.Log("open options");
      //   startinput2 = !startinput2;
     }
-    public void input()
+    public void input1()
     {
         
 
       
         
        
-        if (startinput == false && startinput2 == false)
-        {
+        
             tic += 1; if (tic > 1)
             {
                 
@@ -139,10 +138,9 @@ public class Main_main_menu : MonoBehaviour
             }
 
 
-        }
+       
     }
-    public static bool startinput; 
-    public static bool startinput2;
+    public static bool startinput;
 
     public void delete()
     {
@@ -239,36 +237,44 @@ public class Main_main_menu : MonoBehaviour
 
 
     }
-        void Start()
+    public void close()
     {
-       // Cursor.SetCursor(records2.spritest3("Hero soul/курсор1", 0),-Vector2.one,new CursorMode());
-        
-        dificul = PlayerPrefs.GetInt("dif", 0); 
-        linguace2 = PlayerPrefs.GetInt("ling", 1);
-        if (PlayerPrefs.HasKey("ling"))
-        {
-            PlayerPrefs.SetInt("ling", 1);
-        }
-        dr = Path.Combine();
-      /*  if (File.Exists("sins/DELTARUNE.exe"))
-        {
+        startinput = true;
+    }
+    void Start()
+    {
+        GameJolt.UI.GameJoltUI.Instance.ShowSignIn();
 
-            contactInDeltarune = true;
+        GameJolt.UI.GameJoltUI.Instance.ShowSignIn(
+        (bool signInSuccess) => {
             
-
-
-        }
-      */
+                                },
+        (bool userFetchedSuccess) => {
+           
+                                     }
+                                                  );
 
     }
-        void Update()
+    void Update()
     {
         if (Input.GetKey(KeyCode.LeftControl) && Input.GetKeyDown(KeyCode.X))
         {
             Directory.CreateDirectory(@"DELTAFATE");
             SceneManager.LoadScene(92);
         }
-        input();
+        var isSignedIn = GameJolt.API.GameJoltAPI.Instance.CurrentUser != null;
+        if (isSignedIn)
+        {
+
+            input1();
+        }
+        if (startinput)
+        {
+            input1();
+        }
+        
+
+
         PlayerPrefs.SetInt("dif", dificul);
         PlayerPrefs.SetInt("ling", linguace2);
         if (linguace2 == linguace.Length)

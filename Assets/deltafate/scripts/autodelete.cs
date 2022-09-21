@@ -9,5 +9,10 @@ public class autodelete : MonoBehaviour
     {
         Destroy(gameObject);
     }
+    
+    public void plussdel()
+    {
+        Destroy(gameObject);
+    }
 }
 

@@ -67,7 +67,7 @@ public class Henry : ActiveBehaiver
                     tjump = jump;
                     isgraund = false;
                 }
-                physics();
+                physics0();
                 direction.y = tjump;
                direction.x = Input.GetAxisRaw("Horizontal");
             }
@@ -92,18 +92,38 @@ public class Henry : ActiveBehaiver
             anim.SetFloat("hor", -adirectoin.x * 1.5f);
         }
     }
-    private void physics()
+    private void physics0()
     {
-        
-        if (Physics2D.Raycast(transform.position, Vector2.down,size))
+
+        if (Physics2D.Raycast(transform.position, Vector2.down, size, LayerMask.GetMask("trigger")))
         {
             if (tjump <= 0)
             {
 
 
-                tjump = 0;
+
             }
-                isgraund = true;
+            isgraund = true;
+        }
+        if (Physics2D.Raycast(transform.position, Vector2.down, size, LayerMask.GetMask("Default")))
+        {
+            if (tjump <= 0)
+            {
+
+                tjump = 0;
+
+            }
+            isgraund = true;
+        }
+        if (Physics2D.Raycast(transform.position, Vector2.up, 1, LayerMask.GetMask("Default")))
+        {
+            if (tjump <= 0)
+            {
+
+                tjump -= Time.deltaTime * gr*2;
+
+            }
+            isgraund = false;
         }
     }
     private void FixedUpdate()

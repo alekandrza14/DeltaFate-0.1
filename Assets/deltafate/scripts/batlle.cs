@@ -139,9 +139,24 @@ public class batlle : MonoBehaviour
         }
         if (en != null)
         {
-            if (en.hp <= 0)
+            if (en.hp <= 0&& en.enemyanim != "spamton neo")
             {
                 en = null;
+            }
+            else if(en.enemyanim == "spamton neo")
+            {
+                if (en.hp <= 0)
+                {
+
+                    PlayerPrefs.SetInt("spamtonkill", PlayerPrefs.GetInt("spamtonkill", 0) + 1);
+                    if (NewMethod())
+                    {
+
+                    }
+
+                        en = null;
+                    
+                }
             }
         }
         if (en != null)
@@ -156,6 +171,7 @@ public class batlle : MonoBehaviour
                     acts[i].mb = en.acts[i].mb;
                     en.init = true;
                 }
+                
             }
             c.enabled = true;
             anim2.Play(en.enemyanim);
@@ -317,5 +333,21 @@ public class batlle : MonoBehaviour
             cic.gameObject.SetActive(!cic.gameObject.activeSelf);
             
         }
+    }
+
+    private static bool NewMethod()
+    {
+        
+
+        if (PlayerPrefs.GetInt("spamtonkill", 0) >= 10)
+        {
+            var isSignedIn = GameJolt.API.GameJoltAPI.Instance.CurrentUser != null;
+            if (isSignedIn)
+            {
+                
+                GameJolt.API.Trophies.TryUnlock(173091);
+            }
+        }
+        return true;
     }
 }

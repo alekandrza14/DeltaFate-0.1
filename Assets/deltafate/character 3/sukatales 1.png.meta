@@ -116,7 +116,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sukatales_0
+      name: sukatales_09
       rect:
         serializedVersion: 2
         x: 0
@@ -210,7 +210,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      sukatales_0: 8539212733972157451
+      sukatales_09: 8539212733972157451
       sukatales_3: -2117449494401177477
       sukatales_1: 7627629032535643126
       sukatales_2: 1029648363047145993

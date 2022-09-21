@@ -25,7 +25,16 @@ public class CameraMover : MonoBehaviour
         newpos = character.transform.position;
 
         Vector3 v = oldpos - newpos;
-        v *= Time.fixedDeltaTime * 200;
+        if (locationtype.GetLocation() == location.platformer)
+        {
+            if (v.y < 0)
+            {
+
+
+                v.y *= -1;
+            }
+        }
+            v *= Time.fixedDeltaTime * 200;
         float dist = Vector3.Distance(transform.position, character.position);
         if (dist > camdist)
         {

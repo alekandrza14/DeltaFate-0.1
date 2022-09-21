@@ -10,13 +10,14 @@ public enum location
 public class locationtype : MonoBehaviour
 {
     public location lc;
+    public static location lc1 = location.top_down;
     public location getlc()
     {
         return lc;
     }
     static public location GetLocation()
     {
-        location lc1 = location.top_down;
+        
         if (FindObjectOfType<locationtype>())
         {
             lc1 = FindObjectOfType<locationtype>().getlc();

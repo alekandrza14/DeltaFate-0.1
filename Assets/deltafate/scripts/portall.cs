@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Save;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -29,8 +30,10 @@ public class portall : MonoBehaviour
     {
         if (enter && DuoInput.Enter())
         {
+            SaveDataClass.savemove(FindObjectOfType<PlayerControler>(), loca);
             SceneManager.LoadScene(loca);
             number.nb = nb;
+            SaveDataClass.savemove(FindObjectOfType<PlayerControler>(), loca);
         }
 
     }

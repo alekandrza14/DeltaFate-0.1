@@ -27,9 +27,14 @@ namespace System.Save
         public long[] oxp;
         public long[] olevel;
         public static SaveDataClass slot = new SaveDataClass();
+        public static SaveDataClass fantomslot = new SaveDataClass();
         public static string Path(PlayerControler player)
         {
             return "save/" + player.character.namecharacter + "/scene-" + SceneManager.GetActiveScene().name;
+        }
+        public static string newPath(PlayerControler player,string newscene)
+        {
+            return "save/" + player.character.namecharacter + "/scene-" + newscene;
         }
         public static void save(PlayerControler player)
         {
@@ -61,6 +66,47 @@ namespace System.Save
                 File.WriteAllText(Path(player) + "/PlayerPosition.json", JsonUtility.ToJson(slot));
             }
         }
+        public static void savemove(PlayerControler player,string loca)
+        {
+
+            if (!isata.Data)
+            {
+
+                
+                slot = newload(player);
+                fantomslot = newload1(player,loca);
+                slot.campos = fantomslot.campos;
+                slot.charpos = fantomslot.charpos;
+                
+                
+                slot.othercharpos = new Vector3[slot.othercharpos.Length];
+                for (int i = 0; i < player.othercharacters.Length; i++)
+                {
+                    
+                    slot.othercharpos[i] = fantomslot.charpos;
+                }
+                Directory.CreateDirectory(newPath(player, loca));
+                File.WriteAllText(newPath(player,loca) + "/PlayerPosition.json", JsonUtility.ToJson(slot));
+            }
+        }
+        public static SaveDataClass newload(PlayerControler player)
+        {
+            SaveDataClass ss = new SaveDataClass();
+            
+            if (File.Exists(Path(player) + "/PlayerPosition.json"))
+            {
+                ss = JsonUtility.FromJson<SaveDataClass>(File.ReadAllText(Path(player) + "/PlayerPosition.json"));
+
+
+
+
+                
+
+
+            }
+            return ss;
+        }
+        
         public static void load(PlayerControler player)
         {
             if (File.Exists(Path(player) + "/PlayerPosition.json"))
@@ -71,23 +117,46 @@ namespace System.Save
                 player.character.level = slot.level;
                 player.character.transform.position = slot.charpos;
                 player._camera.transform.position = slot.campos;
+
+
+                for (int i = 0; i < slot.othercharname.Length; i++)
+                {
+                    player.create(slot.othercharname[i], slot.othercharpos[i], slot.ohp[i], slot.oxp[i], slot.olevel[i]);
+                }
+
+
+
+
+            }
+        }
+        public static SaveDataClass newload1(PlayerControler player ,string loka)
+        {
+            SaveDataClass ss = new SaveDataClass();
+            
+            if (File.Exists(newPath(player,loka) + "/PlayerPosition.json"))
+            {
+                ss = JsonUtility.FromJson<SaveDataClass>(File.ReadAllText(newPath(player, loka) + "/PlayerPosition.json"));
+
+
+
+
                 
 
-                    for (int i = 0; i < slot.othercharname.Length; i++)
-                    {
-                        player.create(slot.othercharname[i], slot.othercharpos[i], slot.ohp[i], slot.oxp[i], slot.olevel[i]);
-                    }
-                
-                
-                    
-                
+
             }
+            return ss;
         }
         public static void fall(PlayerControler player)
         {
            if( File.Exists(Path(player) + "/PlayerPosition.json"))
            {
                 isata.Data = true;
+                var isSignedIn = GameJolt.API.GameJoltAPI.Instance.CurrentUser != null;
+                if (isSignedIn)
+                {
+
+                    GameJolt.API.Trophies.TryUnlock(173089);
+                }
                 File.Delete(Path(player) + "/PlayerPosition.json");
                 SceneManager.LoadScene(SceneManager.GetActiveScene().name);
            }

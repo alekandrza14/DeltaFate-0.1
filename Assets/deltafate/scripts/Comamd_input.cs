@@ -56,7 +56,7 @@ public class Comamd_input : MonoBehaviour
         {
 
             
-                command_Slots[i2].gameObject.AddComponent<autodelete>();
+                command_Slots[i2].gameObject.AddComponent<autodelete>().plussdel();
             
 
         }
