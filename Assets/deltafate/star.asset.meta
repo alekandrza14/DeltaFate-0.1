@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: d00c7e1eb748ee140b236d8f951c1054
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!-- Created
+    with Inkscape (http://www.inkscape.org/) -->\n\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n  
+    xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n  
+    xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n  
+    xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n  
+    width=\"210mm\"\n   height=\"297mm\"\n   viewBox=\"0 0 210 297\"\n   version=\"1.1\"\n  
+    id=\"svg8\"\n   inkscape:version=\"0.92pre5 r15287\"\n   sodipodi:docname=\"star.svg\">\n 
+    <defs\n     id=\"defs2\" />\n  <sodipodi:namedview\n     id=\"base\"\n     pagecolor=\"#ffffff\"\n    
+    bordercolor=\"#666666\"\n     borderopacity=\"1.0\"\n     inkscape:pageopacity=\"0.0\"\n    
+    inkscape:pageshadow=\"2\"\n     inkscape:zoom=\"0.49497475\"\n     inkscape:cx=\"26.658476\"\n    
+    inkscape:cy=\"680.17214\"\n     inkscape:document-units=\"mm\"\n     inkscape:current-layer=\"layer1\"\n    
+    showgrid=\"false\"\n     inkscape:window-width=\"1920\"\n     inkscape:window-height=\"1009\"\n    
+    inkscape:window-x=\"-8\"\n     inkscape:window-y=\"-8\"\n     inkscape:window-maximized=\"1\"
+    />\n  <metadata\n     id=\"metadata5\">\n    <rdf:RDF>\n      <cc:Work\n        
+    rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type\n          
+    rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\" />\n        <dc:title></dc:title>\n     
+    </cc:Work>\n    </rdf:RDF>\n  </metadata>\n  <g\n     inkscape:label=\"Layer
+    1\"\n     inkscape:groupmode=\"layer\"\n     id=\"layer1\">\n    <path\n      
+    style=\"fill:#000000;stroke:#ffffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n      
+    d=\"M 104.23511,34.006784 87.129865,115.25672 5.3453905,141.98367 86.595325,166.57247
+    101.02788,243.54609 124.5476,166.03793 180.6742,147.8636 124.01306,113.11856
+    Z\"\n       id=\"path4485\"\n       inkscape:connector-curvature=\"0\" />\n 
+    </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

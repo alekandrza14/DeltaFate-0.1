@@ -9,6 +9,8 @@ public class Henry : ActiveBehaiver
     public float speed;
     public Animator anim;
     public float size;
+    public float obj_size;
+    public Transform shadow;
     Vector2 direction;
     float us;
     bool isgraund;
@@ -60,8 +62,18 @@ public class Henry : ActiveBehaiver
             if (locationtype.GetLocation() == location.platformer)
             {
 
-                rb.gravityScale = -0;
-                tjump -= Time.deltaTime * gr;
+                rb.gravityScale = -0; if (tjump < 0)
+                {
+
+
+                    tjump -= Time.deltaTime * gr;
+                }
+                if (tjump >= 0)
+                {
+
+
+                    tjump -= Time.deltaTime * gr/3;
+                }
                 if (Input.GetAxis("Vertical") > 0 && isgraund)
                 {
                     tjump = jump;
@@ -105,8 +117,12 @@ public class Henry : ActiveBehaiver
             }
             isgraund = true;
         }
+        shadow.transform.position = Physics2D.Raycast(transform.position, Vector2.down, int.MaxValue, LayerMask.GetMask("Default")).point;
+        
+        shadow.localScale = new Vector3(1*obj_size,1 * obj_size, 1 * obj_size) / (Vector2.Distance( shadow.transform.position = Physics2D.Raycast(transform.position, Vector2.down, int.MaxValue, LayerMask.GetMask("Default")).point,transform.position)/2);
         if (Physics2D.Raycast(transform.position, Vector2.down, size, LayerMask.GetMask("Default")))
         {
+       
             if (tjump <= 0)
             {
 

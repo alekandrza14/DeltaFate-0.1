@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: c96c9ba57d632b145871c5bfc49dfe0d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!-- Created
+    with Inkscape (http://www.inkscape.org/) -->\n\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n  
+    xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n  
+    xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n  
+    xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n  
+    width=\"210mm\"\n   height=\"297mm\"\n   viewBox=\"0 0 210 297\"\n   version=\"1.1\"\n  
+    id=\"svg4501\"\n   inkscape:version=\"0.92pre5 r15287\"\n   sodipodi:docname=\"shadow.svg\">\n 
+    <defs\n     id=\"defs4495\" />\n  <sodipodi:namedview\n     id=\"base\"\n    
+    pagecolor=\"#ffffff\"\n     bordercolor=\"#666666\"\n     borderopacity=\"1.0\"\n    
+    inkscape:pageopacity=\"0.0\"\n     inkscape:pageshadow=\"2\"\n     inkscape:zoom=\"0.35\"\n    
+    inkscape:cx=\"-114.28571\"\n     inkscape:cy=\"560\"\n     inkscape:document-units=\"mm\"\n    
+    inkscape:current-layer=\"layer1\"\n     showgrid=\"false\"\n     inkscape:window-width=\"1920\"\n    
+    inkscape:window-height=\"1009\"\n     inkscape:window-x=\"-8\"\n     inkscape:window-y=\"-8\"\n    
+    inkscape:window-maximized=\"1\" />\n  <metadata\n     id=\"metadata4498\">\n   
+    <rdf:RDF>\n      <cc:Work\n         rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n       
+    <dc:type\n           rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"
+    />\n        <dc:title></dc:title>\n      </cc:Work>\n    </rdf:RDF>\n  </metadata>\n 
+    <g\n     inkscape:label=\"Layer 1\"\n     inkscape:groupmode=\"layer\"\n    
+    id=\"layer1\">\n    <ellipse\n       style=\"opacity:1;fill:#000000;fill-opacity:0.48163265;fill-rule:nonzero;stroke:none;stroke-width:4.71965885;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1\"\n      
+    id=\"path5046\"\n       cx=\"103.94346\"\n       cy=\"236.90179\"\n       rx=\"89.58036\"\n      
+    ry=\"17.008928\" />\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

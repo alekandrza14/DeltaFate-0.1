@@ -16,7 +16,7 @@ public class CameraMover : MonoBehaviour
         oldpos = character.transform.position;
         newpos = character.transform.position;
     }
-    void Update()
+    void FixedUpdate()
     {
         if (oldpos.x == 0 && oldpos.y == 0)
         {
